@@ -1,0 +1,36 @@
+{
+  "checkedOn": "2026-10-23",
+  "confidentialSources": {
+    "pns-user-authorized-20261023": {
+      "permission": "user-declared",
+      "sourceMap": "local-only",
+      "scope": "text-names-and-annotations"
+    }
+  },
+  "method": "Fixed-version attested names, ordinary Mandarin agent review and primary language review; uncertain new readings excluded. No official audio or current live-game availability claim. No invented corpus frequency.",
+  "license": "Roco CC-BY-SA-4.0 with existing attribution. Original PNS selection CC0-1.0; expanded PNS terms used under user-declared permission, with source mapping retained locally by request. No artwork/dialogue.",
+  "sources": {
+    "roco-launch": "https://www.taptap.cn/moment/785995764059867124",
+    "roco-cat": "https://www.taptap.cn/moment/830766040056074010",
+    "roco-eagle": "https://www.taptap.cn/moment/816002697500036737",
+    "roco-test": "https://www.taptap.cn/moment/654269964571643021",
+    "pns-home": "https://pns.kurogames.com/",
+    "pns-update": "https://pns.kurogames.com/news/5467",
+    "roco-wiki-catalog-20260924": "https://github.com/JayeGT002/rocom-wiki-data/blob/6ab264cb98eec1dd2dde0d7c6dfa200733a98d63/data/wiki_modules/Pets/data/Catalog.lua",
+    "pns-user-authorized-20261023": "User-authorized term list; detailed source mapping is confidential and retained locally, not included in the repository or package."
+  },
+  "scope": "Roco Kingdom World and Punishing Gray Raven only; Roco classic-game-only names are not inferred. Notices attest names, not current event availability.",
+  "attribution": {
+    "roco-world": {
+      "authors": "洛克王国世界 WIKI contributors; JayeGT002 mirror; Little Penguin dictionary reviewers",
+      "license": "CC-BY-SA-4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "modifications": "Extracted names; deduplicated; added Mandarin readings; excluded unresolved names; compiled native dictionary",
+      "sourceRevision": "6ab264cb98eec1dd2dde0d7c6dfa200733a98d63"
+    },
+    "pns": {
+      "license": "Original selection CC0-1.0; expanded selection user-authorized distribution",
+      "scope": "Text names and original Mandarin annotations only; source details withheld at user request. No open-content license fabricated."
+    }
+  }
+}

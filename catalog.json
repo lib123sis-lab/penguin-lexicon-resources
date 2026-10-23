@@ -38,13 +38,13 @@
     },
     {
       "id": "games",
-      "name": "统一游戏词库 v2",
-      "filename": "unified-games-v2.zip",
-      "bytes": 25401,
-      "sha256": "d904e936432633a2e9dd25de4f23a18c115c0a379e7d687f7243189f5902bc02",
-      "license": "Roco CC-BY-SA-4.0; PNS original annotations CC0-1.0",
-      "url": "https://github.com/lib123sis-lab/penguin-lexicon-resources/releases/download/lexicons-v1/unified-games-v2.zip",
-      "entries": 541,
+      "name": "统一游戏词库 v3",
+      "filename": "unified-games-v3.zip",
+      "bytes": 49470,
+      "sha256": "72b79ca4e1c278652ccbf5f5ef435ad88ef45e287c01dc1f0a39402da018589a",
+      "license": "Roco CC-BY-SA-4.0; original PNS CC0-1.0; expanded PNS user-authorized distribution",
+      "url": "https://github.com/lib123sis-lab/penguin-lexicon-resources/releases/download/lexicons-v1/unified-games-v3.zip",
+      "entries": 1131,
       "packs": [
         {
           "id": "roco-world",
@@ -57,9 +57,9 @@
         {
           "id": "pns",
           "name": "战双帕弥什",
-          "entries": 35,
-          "bytes": 2048,
-          "sha256": "5c1dca2ddc6d0e82e110af94fb5223ede4767017dedf96934eeddfae3d93b93c",
+          "entries": 625,
+          "bytes": 16193,
+          "sha256": "8dba67c748cd72300afa1290ee648e4b7549a32e892bf38116f412c7e828b110",
           "defaultEnabled": false
         }
       ]
