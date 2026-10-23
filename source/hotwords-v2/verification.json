@@ -1,0 +1,744 @@
+{
+  "nativeRoundtrip": true,
+  "entries": 141,
+  "dailyCases": 197,
+  "comparedOldToNewHotwords": true,
+  "affectedCombinations": [
+    {
+      "otherPacks": [],
+      "regressions": [],
+      "changes": []
+    },
+    {
+      "otherPacks": [
+        "music-cn"
+      ],
+      "regressions": [],
+      "changes": []
+    },
+    {
+      "otherPacks": [
+        "professional-cn"
+      ],
+      "regressions": [],
+      "changes": []
+    },
+    {
+      "otherPacks": [
+        "music-cn",
+        "professional-cn"
+      ],
+      "regressions": [],
+      "changes": []
+    }
+  ],
+  "fullInTop20": 140,
+  "full": [
+    {
+      "input": "yibupaku",
+      "target": "一不怕苦",
+      "rank": 1
+    },
+    {
+      "input": "yidaergong",
+      "target": "一大二公",
+      "rank": 1
+    },
+    {
+      "input": "wanyuanhu",
+      "target": "万元户",
+      "rank": 1
+    },
+    {
+      "input": "shangwang",
+      "target": "上网",
+      "rank": 1
+    },
+    {
+      "input": "xiagang",
+      "target": "下岗",
+      "rank": 1
+    },
+    {
+      "input": "xiahai",
+      "target": "下海",
+      "rank": 1
+    },
+    {
+      "input": "buwangchuxin",
+      "target": "不忘初心",
+      "rank": 1
+    },
+    {
+      "input": "getihu",
+      "target": "个体户",
+      "rank": 1
+    },
+    {
+      "input": "zhongguomeng",
+      "target": "中国梦",
+      "rank": 1
+    },
+    {
+      "input": "zhuliren",
+      "target": "主理人",
+      "rank": 8
+    },
+    {
+      "input": "erbupasi",
+      "target": "二不怕死",
+      "rank": 1
+    },
+    {
+      "input": "jiaoyiwu",
+      "target": "交谊舞",
+      "rank": 1
+    },
+    {
+      "input": "rengongzhineng",
+      "target": "人工智能",
+      "rank": 1
+    },
+    {
+      "input": "rengongzhinengdamoxing",
+      "target": "人工智能大模型",
+      "rank": 1
+    },
+    {
+      "input": "renxingjiqiren",
+      "target": "人形机器人",
+      "rank": 1
+    },
+    {
+      "input": "shangbuqi",
+      "target": "伤不起",
+      "rank": 1
+    },
+    {
+      "input": "ditan",
+      "target": "低碳",
+      "rank": 1
+    },
+    {
+      "input": "dikongjingji",
+      "target": "低空经济",
+      "rank": 1
+    },
+    {
+      "input": "pianpiannizuizhengqi",
+      "target": "偏偏你最争气",
+      "rank": 1
+    },
+    {
+      "input": "zuorenyaohoudao",
+      "target": "做人要厚道",
+      "rank": 1
+    },
+    {
+      "input": "ouxifan",
+      "target": "偶稀饭",
+      "rank": 1
+    },
+    {
+      "input": "tougan",
+      "target": "偷感",
+      "rank": 6
+    },
+    {
+      "input": "yuanyuzhou",
+      "target": "元宇宙",
+      "rank": 1
+    },
+    {
+      "input": "guangpanxingdong",
+      "target": "光盘行动",
+      "rank": 1
+    },
+    {
+      "input": "gongxiang",
+      "target": "共享",
+      "rank": 1
+    },
+    {
+      "input": "yanglongxia",
+      "target": "养龙虾",
+      "rank": 1
+    },
+    {
+      "input": "bingjiling",
+      "target": "冰激凌",
+      "rank": 1
+    },
+    {
+      "input": "bingxuejingji",
+      "target": "冰雪经济",
+      "rank": 1
+    },
+    {
+      "input": "lizhengshangyou",
+      "target": "力争上游",
+      "rank": 1
+    },
+    {
+      "input": "zhuwopoding",
+      "target": "助我破鼎",
+      "rank": 1
+    },
+    {
+      "input": "maimeng",
+      "target": "卖萌",
+      "rank": 1
+    },
+    {
+      "input": "shuangjian",
+      "target": "双减",
+      "rank": 13
+    },
+    {
+      "input": "shuangxiangbenfu",
+      "target": "双向奔赴",
+      "rank": 1
+    },
+    {
+      "input": "shuangtan",
+      "target": "双碳",
+      "rank": 2
+    },
+    {
+      "input": "fafentuqiang",
+      "target": "发奋图强",
+      "rank": 1
+    },
+    {
+      "input": "tongzhi",
+      "target": "同志",
+      "rank": 2
+    },
+    {
+      "input": "hanjinlianghaizaishangsheng",
+      "target": "含金量还在上升",
+      "rank": 1
+    },
+    {
+      "input": "mingyundechilunkaishizhuandong",
+      "target": "命运的齿轮开始转动",
+      "rank": 1
+    },
+    {
+      "input": "xidapuben",
+      "target": "喜大普奔",
+      "rank": 1
+    },
+    {
+      "input": "sigexiandaihua",
+      "target": "四个现代化",
+      "rank": 1
+    },
+    {
+      "input": "sixiangjibenyuanze",
+      "target": "四项基本原则",
+      "rank": 1
+    },
+    {
+      "input": "yintewang",
+      "target": "因特网",
+      "rank": 1
+    },
+    {
+      "input": "tuhao",
+      "target": "土豪",
+      "rank": 1
+    },
+    {
+      "input": "diqiucun",
+      "target": "地球村",
+      "rank": 1
+    },
+    {
+      "input": "kengdie",
+      "target": "坑爹",
+      "rank": 1
+    },
+    {
+      "input": "duobaanchuanda",
+      "target": "多巴胺穿搭",
+      "rank": 1
+    },
+    {
+      "input": "duozhinengti",
+      "target": "多智能体",
+      "rank": 1
+    },
+    {
+      "input": "nvpaijingshen",
+      "target": "女排精神",
+      "rank": 1
+    },
+    {
+      "input": "nvhanzi",
+      "target": "女汉子",
+      "rank": 1
+    },
+    {
+      "input": "ruheneyounengzen",
+      "target": "如何呢又能怎",
+      "rank": 1
+    },
+    {
+      "input": "xueleifeng",
+      "target": "学雷锋",
+      "rank": 1
+    },
+    {
+      "input": "xiaokang",
+      "target": "小康",
+      "rank": 1
+    },
+    {
+      "input": "xiaozi",
+      "target": "小资",
+      "rank": 3
+    },
+    {
+      "input": "xiaozhenzuotijia",
+      "target": "小镇做题家",
+      "rank": 1
+    },
+    {
+      "input": "galiao",
+      "target": "尬聊",
+      "rank": 1
+    },
+    {
+      "input": "diaosi",
+      "target": "屌丝",
+      "rank": 1
+    },
+    {
+      "input": "shuaidaile",
+      "target": "帅呆了",
+      "rank": 1
+    },
+    {
+      "input": "jianshe",
+      "target": "建设",
+      "rank": 1
+    },
+    {
+      "input": "weibo",
+      "target": "微博",
+      "rank": 1
+    },
+    {
+      "input": "dexiansheng",
+      "target": "德先生",
+      "rank": 3
+    },
+    {
+      "input": "qingxujiazhi",
+      "target": "情绪价值",
+      "rank": 1
+    },
+    {
+      "input": "zhaxinle",
+      "target": "扎心了",
+      "rank": 1
+    },
+    {
+      "input": "labubu",
+      "target": "拉布布",
+      "rank": 4
+    },
+    {
+      "input": "nanie",
+      "target": "拿捏",
+      "rank": 1
+    },
+    {
+      "input": "dazi",
+      "target": "搭子",
+      "rank": 4
+    },
+    {
+      "input": "modeng",
+      "target": "摩登",
+      "rank": 1
+    },
+    {
+      "input": "modengnulang",
+      "target": "摩登女郎",
+      "rank": 1
+    },
+    {
+      "input": "gaizao",
+      "target": "改造",
+      "rank": 1
+    },
+    {
+      "input": "gaigekaifang",
+      "target": "改革开放",
+      "rank": 1
+    },
+    {
+      "input": "jingzijiyibei",
+      "target": "敬自己一杯",
+      "rank": 1
+    },
+    {
+      "input": "shuziren",
+      "target": "数字人",
+      "rank": 1
+    },
+    {
+      "input": "shuzicangpin",
+      "target": "数字藏品",
+      "rank": 1
+    },
+    {
+      "input": "shuzhishenghuo",
+      "target": "数智生活",
+      "rank": 5
+    },
+    {
+      "input": "xindazhongwenyi",
+      "target": "新大众文艺",
+      "rank": 1
+    },
+    {
+      "input": "xinzhishengchanli",
+      "target": "新质生产力",
+      "rank": 1
+    },
+    {
+      "input": "xianyanbao",
+      "target": "显眼包",
+      "rank": 1
+    },
+    {
+      "input": "zhinengti",
+      "target": "智能体",
+      "rank": 1
+    },
+    {
+      "input": "zhinengtihulian",
+      "target": "智能体互联",
+      "rank": 1
+    },
+    {
+      "input": "youmuyou",
+      "target": "有木有",
+      "rank": 1
+    },
+    {
+      "input": "cunka",
+      "target": "村咖",
+      "rank": 2
+    },
+    {
+      "input": "cunchao",
+      "target": "村超",
+      "rank": 1
+    },
+    {
+      "input": "hangzhouliuxiaolong",
+      "target": "杭州六小龙",
+      "rank": 1
+    },
+    {
+      "input": "songchigan",
+      "target": "松弛感",
+      "rank": 1
+    },
+    {
+      "input": "zhengnengliang",
+      "target": "正能量",
+      "rank": 1
+    },
+    {
+      "input": "han",
+      "target": "汗",
+      "rank": 6
+    },
+    {
+      "input": "chenjinshi",
+      "target": "沉浸式",
+      "rank": 1
+    },
+    {
+      "input": "shafa",
+      "target": "沙发",
+      "rank": 1
+    },
+    {
+      "input": "youni",
+      "target": "油腻",
+      "rank": 1
+    },
+    {
+      "input": "huorengan",
+      "target": "活人感",
+      "rank": 1
+    },
+    {
+      "input": "nongrendanren",
+      "target": "浓人淡人",
+      "rank": 1
+    },
+    {
+      "input": "langlangshanxiaoyaoguai",
+      "target": "浪浪山小妖怪",
+      "rank": 1
+    },
+    {
+      "input": "fuyun",
+      "target": "浮云",
+      "rank": 1
+    },
+    {
+      "input": "shenduqiusuo",
+      "target": "深度求索",
+      "rank": 1
+    },
+    {
+      "input": "qianshui",
+      "target": "潜水",
+      "rank": 1
+    },
+    {
+      "input": "chaogu",
+      "target": "炒股",
+      "rank": 1
+    },
+    {
+      "input": "yanhuoqi",
+      "target": "烟火气",
+      "rank": 1
+    },
+    {
+      "input": "airen",
+      "target": "爱人",
+      "rank": 1
+    },
+    {
+      "input": "tezhongbingshilvyou",
+      "target": "特种兵式旅游",
+      "rank": 1
+    },
+    {
+      "input": "xilige",
+      "target": "犀利哥",
+      "rank": 1
+    },
+    {
+      "input": "banwei",
+      "target": "班味",
+      "rank": null
+    },
+    {
+      "input": "banweier",
+      "target": "班味儿",
+      "rank": 1
+    },
+    {
+      "input": "zhenhuanti",
+      "target": "甄嬛体",
+      "rank": 1
+    },
+    {
+      "input": "shengchengshirengongzhineng",
+      "target": "生成式人工智能",
+      "rank": 1
+    },
+    {
+      "input": "dianzizhacai",
+      "target": "电子榨菜",
+      "rank": 1
+    },
+    {
+      "input": "yimiaojiezhong",
+      "target": "疫苗接种",
+      "rank": 1
+    },
+    {
+      "input": "baimodazhan",
+      "target": "百模大战",
+      "rank": 1
+    },
+    {
+      "input": "diqueliang",
+      "target": "的确良",
+      "rank": 1
+    },
+    {
+      "input": "pofang",
+      "target": "破防",
+      "rank": 1
+    },
+    {
+      "input": "yingkong",
+      "target": "硬控",
+      "rank": 3
+    },
+    {
+      "input": "shenma",
+      "target": "神马",
+      "rank": 1
+    },
+    {
+      "input": "piaogenjingji",
+      "target": "票根经济",
+      "rank": 1
+    },
+    {
+      "input": "jingshenneihao",
+      "target": "精神内耗",
+      "rank": 1
+    },
+    {
+      "input": "geili",
+      "target": "给力",
+      "rank": 1
+    },
+    {
+      "input": "laoban",
+      "target": "老板",
+      "rank": 1
+    },
+    {
+      "input": "yuerbutie",
+      "target": "育儿补贴",
+      "rank": 1
+    },
+    {
+      "input": "ziligengsheng",
+      "target": "自力更生",
+      "rank": 1
+    },
+    {
+      "input": "hangkonggongsi",
+      "target": "航空公司",
+      "rank": 1
+    },
+    {
+      "input": "suchao",
+      "target": "苏超",
+      "rank": 1
+    },
+    {
+      "input": "suannihen",
+      "target": "蒜你狠",
+      "rank": 2
+    },
+    {
+      "input": "ciyuan",
+      "target": "词元",
+      "rank": 4
+    },
+    {
+      "input": "guzi",
+      "target": "谷子",
+      "rank": 2
+    },
+    {
+      "input": "saixiansheng",
+      "target": "赛先生",
+      "rank": 1
+    },
+    {
+      "input": "ganyingchaomei",
+      "target": "赶英超美",
+      "rank": 1
+    },
+    {
+      "input": "kuajingzhifutong",
+      "target": "跨境支付通",
+      "rank": 1
+    },
+    {
+      "input": "luxianshigegang",
+      "target": "路线是个纲",
+      "rank": 1
+    },
+    {
+      "input": "tangping",
+      "target": "躺平",
+      "rank": 2
+    },
+    {
+      "input": "disike",
+      "target": "迪斯科",
+      "rank": 2
+    },
+    {
+      "input": "nixi",
+      "target": "逆袭",
+      "rank": 1
+    },
+    {
+      "input": "kubile",
+      "target": "酷毙了",
+      "rank": 1
+    },
+    {
+      "input": "tieren",
+      "target": "铁人",
+      "rank": 1
+    },
+    {
+      "input": "jiejidouzheng",
+      "target": "阶级斗争",
+      "rank": 1
+    },
+    {
+      "input": "afanda",
+      "target": "阿凡达",
+      "rank": 1
+    },
+    {
+      "input": "xionganxinqu",
+      "target": "雄安新区",
+      "rank": 1
+    },
+    {
+      "input": "xuegaocike",
+      "target": "雪糕刺客",
+      "rank": 1
+    },
+    {
+      "input": "wumai",
+      "target": "雾霾",
+      "rank": 1
+    },
+    {
+      "input": "qingnianyexiao",
+      "target": "青年夜校",
+      "rank": 1
+    },
+    {
+      "input": "ding",
+      "target": "顶",
+      "rank": 2
+    },
+    {
+      "input": "gaofushuai",
+      "target": "高富帅",
+      "rank": 1
+    },
+    {
+      "input": "gaotie",
+      "target": "高铁",
+      "rank": 1
+    },
+    {
+      "input": "heishenhuawukong",
+      "target": "黑神话悟空",
+      "rank": 1
+    },
+    {
+      "input": "guzuganjin",
+      "target": "鼓足干劲",
+      "rank": 1
+    }
+  ],
+  "deviceExecuted": false
+}

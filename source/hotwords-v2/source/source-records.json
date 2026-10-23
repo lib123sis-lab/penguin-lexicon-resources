@@ -1,0 +1,2061 @@
+[
+  {
+    "word": "一不怕苦",
+    "pinyin": "yi'bu'pa'ku",
+    "evidence": [
+      {
+        "word": "一不怕苦",
+        "pinyin": "yi bu pa ku",
+        "period_start": "1960",
+        "period_end": "1969",
+        "source": "https://ent.people.com.cn/n1/2023/0326/c1012-32651244.html",
+        "note": "人民网正文明确列为20世纪60年代鲜活词语/口号；不是逐词首见日期。",
+        "review_basis": "source-text-reviewed"
+      }
+    ]
+  },
+  {
+    "word": "一大二公",
+    "pinyin": "yi'da'er'gong",
+    "evidence": [
+      {
+        "word": "一大二公",
+        "pinyin": "yi da er gong",
+        "period_start": "1950",
+        "period_end": "1969",
+        "source": "https://paper.people.com.cn/rmrbhwb/page/2016-10/24/05/rmrbhwb2016102405.pdf",
+        "note": "人民日报海外版正文将其称为上世纪五六十年代令人记忆犹新的流行语；保留宽区间。",
+        "review_basis": "source-text-reviewed"
+      }
+    ]
+  },
+  {
+    "word": "万元户",
+    "pinyin": "wan'yuan'hu",
+    "evidence": [
+      {
+        "word": "万元户",
+        "pinyin": "wan yuan hu",
+        "period_start": "1980",
+        "period_end": "1989",
+        "source": "https://media.people.com.cn/n1/2016/1024/c40606-28800954.html",
+        "note": "人民网2016正文明确称其在上世纪80年代成为经济生活标志性说法。",
+        "review_basis": "source-text-reviewed"
+      }
+    ]
+  },
+  {
+    "word": "上网",
+    "pinyin": "shang'wang",
+    "evidence": [
+      {
+        "word": "上网",
+        "pinyin": "shang wang",
+        "period_start": "1980",
+        "period_end": "1999",
+        "source": "https://ent.people.com.cn/n1/2023/0326/c1012-32651244.html",
+        "note": "人民网正文归为八九十年代代表表达；保留跨两个年代的来源宽范围。",
+        "review_basis": "source-text-reviewed"
+      }
+    ]
+  },
+  {
+    "word": "下岗",
+    "pinyin": "xia'gang",
+    "evidence": [
+      {
+        "word": "下岗",
+        "pinyin": "xia gang",
+        "period_start": "1990",
+        "period_end": "1999",
+        "source": "https://paper.people.com.cn/rmlt/html/2023-02/20/content_25984582.htm",
+        "note": "人民论坛正文明确将该词列入20世纪90年代流行说法；年代是来源归纳，不代表最早书证。",
+        "review_basis": "source-text-reviewed"
+      }
+    ]
+  },
+  {
+    "word": "下海",
+    "pinyin": "xia'hai",
+    "evidence": [
+      {
+        "word": "下海",
+        "pinyin": "xia hai",
+        "period_start": "1990",
+        "period_end": "1999",
+        "source": "https://paper.people.com.cn/rmlt/html/2023-02/20/content_25984582.htm",
+        "note": "人民论坛正文明确将该词列入20世纪90年代流行说法；年代是来源归纳，不代表最早书证。",
+        "review_basis": "source-text-reviewed"
+      }
+    ]
+  },
+  {
+    "word": "不忘初心",
+    "pinyin": "bu'wang'chu'xin",
+    "evidence": [
+      {
+        "word": "不忘初心",
+        "pinyin": "bu wang chu xin",
+        "period_start": "2017",
+        "period_end": "2017",
+        "source": "https://qspfw.moe.gov.cn/html/hotnews/20171222/11828.html",
+        "note": "教育部普法网正文列入2017年度十大流行语，榜单写作“不忘初心，牢记使命”；年份是上榜年。",
+        "review_basis": "source-text-reviewed"
+      }
+    ]
+  },
+  {
+    "word": "个体户",
+    "pinyin": "ge'ti'hu",
+    "evidence": [
+      {
+        "word": "个体户",
+        "pinyin": "ge ti hu",
+        "period_start": "1978",
+        "period_end": "2023",
+        "source": "https://paper.people.com.cn/rmlt/html/2023-02/20/content_25984582.htm",
+        "note": "人民论坛正文称改革开放之后出现；保留改革开放至论文发表的宽期，不推定逐词年代或逐年持续使用。",
+        "review_basis": "source-text-reviewed"
+      }
+    ]
+  },
+  {
+    "word": "中国梦",
+    "pinyin": "zhong'guo'meng",
+    "evidence": [
+      {
+        "word": "中国梦",
+        "pinyin": "zhong guo meng",
+        "period_start": "2013",
+        "period_end": "2013",
+        "source": "https://hudong.moe.gov.cn/s78/A19/A19_ztzl/ztzl_yywzfw/shenghuoxz/201312/t20131223_161120.html",
+        "note": "教育部2013年度盘点正文列为年度十大流行语；日期是上榜年，不表示首见年。",
+        "review_basis": "source-text-reviewed"
+      }
+    ]
+  },
+  {
+    "word": "主理人",
+    "pinyin": "zhu'li'ren",
+    "evidence": [
+      {
+        "word": "主理人",
+        "pinyin": "zhu li ren",
+        "period_start": "2024",
+        "period_end": "2024",
+        "source": "Existing 2022-2026 curated list; year sources in SOURCES.md",
+        "note": "Year is the source/reporting period, not first occurrence."
+      }
+    ]
+  },
+  {
+    "word": "二不怕死",
+    "pinyin": "er'bu'pa'si",
+    "evidence": [
+      {
+        "word": "二不怕死",
+        "pinyin": "er bu pa si",
+        "period_start": "1960",
+        "period_end": "1969",
+        "source": "https://ent.people.com.cn/n1/2023/0326/c1012-32651244.html",
+        "note": "人民网正文明确列为20世纪60年代鲜活词语/口号；不是逐词首见日期。",
+        "review_basis": "source-text-reviewed"
+      }
+    ]
+  },
+  {
+    "word": "交谊舞",
+    "pinyin": "jiao'yi'wu",
+    "evidence": [
+      {
+        "word": "交谊舞",
+        "pinyin": "jiao yi wu",
+        "period_start": "1978",
+        "period_end": "2023",
+        "source": "https://paper.people.com.cn/rmlt/html/2023-02/20/content_25984582.htm",
+        "note": "人民论坛正文称改革开放之后出现；保留改革开放至论文发表的宽期，不推定逐词年代或逐年持续使用。",
+        "review_basis": "source-text-reviewed"
+      }
+    ]
+  },
+  {
+    "word": "人工智能",
+    "pinyin": "ren'gong'zhi'neng",
+    "evidence": [
+      {
+        "word": "人工智能",
+        "pinyin": "ren gong zhi neng",
+        "period_start": "2017",
+        "period_end": "2017",
+        "source": "https://qspfw.moe.gov.cn/html/hotnews/20171222/11828.html",
+        "note": "教育部普法网正文列入2017年度十大流行语；年份是上榜年，不是首见年。",
+        "review_basis": "source-text-reviewed"
+      }
+    ]
+  },
+  {
+    "word": "人工智能大模型",
+    "pinyin": "ren'gong'zhi'neng'da'mo'xing",
+    "evidence": [
+      {
+        "word": "人工智能大模型",
+        "pinyin": "ren gong zhi neng da mo xing",
+        "period_start": "2023",
+        "period_end": "2023",
+        "source": "Existing 2022-2026 curated list; year sources in SOURCES.md",
+        "note": "Year is the source/reporting period, not first occurrence."
+      }
+    ]
+  },
+  {
+    "word": "人形机器人",
+    "pinyin": "ren'xing'ji'qi'ren",
+    "evidence": [
+      {
+        "word": "人形机器人",
+        "pinyin": "ren xing ji qi ren",
+        "period_start": "2025",
+        "period_end": "2025",
+        "source": "Existing 2022-2026 curated list; year sources in SOURCES.md",
+        "note": "Year is the source/reporting period, not first occurrence."
+      }
+    ]
+  },
+  {
+    "word": "伤不起",
+    "pinyin": "shang'bu'qi",
+    "evidence": [
+      {
+        "word": "伤不起",
+        "pinyin": "shang bu qi",
+        "period_start": "2011",
+        "period_end": "2011",
+        "source": "https://media.people.com.cn/n/2013/0131/c355649-20390645.html",
+        "note": "人民网文章按年份将其列为2011年网络热词；该年是归类年份，不表示首见年。",
+        "review_basis": "source-text-reviewed"
+      }
+    ]
+  },
+  {
+    "word": "低碳",
+    "pinyin": "di'tan",
+    "evidence": [
+      {
+        "word": "低碳",
+        "pinyin": "di tan",
+        "period_start": "2010",
+        "period_end": "2010",
+        "source": "https://www.moe.gov.cn/jyb_xwfb/gzdt_gzdt/moe_1485/201012/t20101231_113648.html",
+        "note": "教育部发布的2010年度媒体流行语榜单收录此词。 用户2026-10-23明确批准纳入；本轮未成功读取原来源正文，不作为独立来源核验通过。",
+        "review_basis": "user-approved-source-not-independently-verified"
+      }
+    ]
+  },
+  {
+    "word": "低空经济",
+    "pinyin": "di'kong'jing'ji",
+    "evidence": [
+      {
+        "word": "低空经济",
+        "pinyin": "di kong jing ji",
+        "period_start": "2024",
+        "period_end": "2024",
+        "source": "Existing 2022-2026 curated list; year sources in SOURCES.md",
+        "note": "Year is the source/reporting period, not first occurrence."
+      }
+    ]
+  },
+  {
+    "word": "偏偏你最争气",
+    "pinyin": "pian'pian'ni'zui'zheng'qi",
+    "evidence": [
+      {
+        "word": "偏偏你最争气",
+        "pinyin": "pian pian ni zui zheng qi",
+        "period_start": "2024",
+        "period_end": "2024",
+        "source": "Existing 2022-2026 curated list; year sources in SOURCES.md",
+        "note": "Year is the source/reporting period, not first occurrence."
+      }
+    ]
+  },
+  {
+    "word": "做人要厚道",
+    "pinyin": "zuo'ren'yao'hou'dao",
+    "evidence": [
+      {
+        "word": "做人要厚道",
+        "pinyin": "zuo ren yao hou dao",
+        "period_start": "2004",
+        "period_end": "2004",
+        "source": "https://www.moe.gov.cn/jyb_xwfb/xw_ft/moe_46/moe_1055/tnull_11019.html",
+        "note": "教育部报道列于2004年十大网络流行用语。 用户2026-10-23明确批准纳入；本轮未成功读取原来源正文，不作为独立来源核验通过。",
+        "review_basis": "user-approved-source-not-independently-verified"
+      }
+    ]
+  },
+  {
+    "word": "偶稀饭",
+    "pinyin": "ou'xi'fan",
+    "evidence": [
+      {
+        "word": "偶稀饭",
+        "pinyin": "ou xi fan",
+        "period_start": "2004",
+        "period_end": "2004",
+        "source": "https://www.moe.gov.cn/jyb_xwfb/xw_ft/moe_46/moe_1055/tnull_11019.html",
+        "note": "教育部报道列于2004年十大网络流行用语。 用户2026-10-23明确批准纳入；本轮未成功读取原来源正文，不作为独立来源核验通过。",
+        "review_basis": "user-approved-source-not-independently-verified"
+      }
+    ]
+  },
+  {
+    "word": "偷感",
+    "pinyin": "tou'gan",
+    "evidence": [
+      {
+        "word": "偷感",
+        "pinyin": "tou gan",
+        "period_start": "2024",
+        "period_end": "2024",
+        "source": "Existing 2022-2026 curated list; year sources in SOURCES.md",
+        "note": "Year is the source/reporting period, not first occurrence."
+      }
+    ]
+  },
+  {
+    "word": "元宇宙",
+    "pinyin": "yuan'yu'zhou",
+    "evidence": [
+      {
+        "word": "元宇宙",
+        "pinyin": "yuan yu zhou",
+        "period_start": "2021",
+        "period_end": "2021",
+        "source": "https://ent.people.com.cn/n1/2022/0103/c1012-32322962.html",
+        "note": "人民网年度盘点报道列入2021年度流行语/网络用语榜单；年份是上榜年，不是首见年。",
+        "review_basis": "source-text-reviewed"
+      }
+    ]
+  },
+  {
+    "word": "光盘行动",
+    "pinyin": "guang'pan'xing'dong",
+    "evidence": [
+      {
+        "word": "光盘行动",
+        "pinyin": "guang pan xing dong",
+        "period_start": "2013",
+        "period_end": "2013",
+        "source": "https://hudong.moe.gov.cn/s78/A19/A19_ztzl/ztzl_yywzfw/shenghuoxz/201312/t20131223_161120.html",
+        "note": "教育部2013年度盘点正文列为年度十大新词语；日期是上榜年。",
+        "review_basis": "source-text-reviewed"
+      }
+    ]
+  },
+  {
+    "word": "共享",
+    "pinyin": "gong'xiang",
+    "evidence": [
+      {
+        "word": "共享",
+        "pinyin": "gong xiang",
+        "period_start": "2017",
+        "period_end": "2017",
+        "source": "https://qspfw.moe.gov.cn/html/hotnews/20171222/11828.html",
+        "note": "教育部普法网正文列入2017年度十大流行语；年份是上榜年，不是首见年。",
+        "review_basis": "source-text-reviewed"
+      }
+    ]
+  },
+  {
+    "word": "养龙虾",
+    "pinyin": "yang'long'xia",
+    "evidence": [
+      {
+        "word": "养龙虾",
+        "pinyin": "yang long xia",
+        "period_start": "2026",
+        "period_end": "2026",
+        "source": "Existing 2022-2026 curated list; year sources in SOURCES.md",
+        "note": "Year is the source/reporting period, not first occurrence."
+      }
+    ]
+  },
+  {
+    "word": "冰激凌",
+    "pinyin": "bing'ji'ling",
+    "evidence": [
+      {
+        "word": "冰激凌",
+        "pinyin": "bing ji ling",
+        "period_start": "1912",
+        "period_end": "1949",
+        "source": "https://culture.people.com.cn/n/2014/0812/c22219-25449701.html",
+        "note": "人民网报道明确将此词列为民国时期新词；来源所述词典民国卷期为1912—1949。保留来源宽范围，不推定具体年份。",
+        "review_basis": "source-text-reviewed"
+      }
+    ]
+  },
+  {
+    "word": "冰雪经济",
+    "pinyin": "bing'xue'jing'ji",
+    "evidence": [
+      {
+        "word": "冰雪经济",
+        "pinyin": "bing xue jing ji",
+        "period_start": "2022",
+        "period_end": "2022",
+        "source": "Existing 2022-2026 curated list; year sources in SOURCES.md",
+        "note": "Year is the source/reporting period, not first occurrence."
+      }
+    ]
+  },
+  {
+    "word": "力争上游",
+    "pinyin": "li'zheng'shang'you",
+    "evidence": [
+      {
+        "word": "力争上游",
+        "pinyin": "li zheng shang you",
+        "period_start": "1950",
+        "period_end": "1959",
+        "source": "https://ent.people.com.cn/n1/2023/0326/c1012-32651244.html",
+        "note": "人民网正文明确列为20世纪50年代鲜活词语/表达；不是逐词首见日期。",
+        "review_basis": "source-text-reviewed"
+      }
+    ]
+  },
+  {
+    "word": "助我破鼎",
+    "pinyin": "zhu'wo'po'ding",
+    "evidence": [
+      {
+        "word": "助我破鼎",
+        "pinyin": "zhu wo po ding",
+        "period_start": "2025",
+        "period_end": "2025",
+        "source": "Existing 2022-2026 curated list; year sources in SOURCES.md",
+        "note": "Year is the source/reporting period, not first occurrence."
+      }
+    ]
+  },
+  {
+    "word": "卖萌",
+    "pinyin": "mai'meng",
+    "evidence": [
+      {
+        "word": "卖萌",
+        "pinyin": "mai meng",
+        "period_start": "2011",
+        "period_end": "2011",
+        "source": "https://media.people.com.cn/n/2013/0131/c355649-20390645.html",
+        "note": "人民网文章按年份将其列为2011年网络热词；该年是归类年份，不表示首见年。",
+        "review_basis": "source-text-reviewed"
+      }
+    ]
+  },
+  {
+    "word": "双减",
+    "pinyin": "shuang'jian",
+    "evidence": [
+      {
+        "word": "双减",
+        "pinyin": "shuang jian",
+        "period_start": "2021",
+        "period_end": "2021",
+        "source": "https://ent.people.com.cn/n1/2022/0103/c1012-32322962.html",
+        "note": "人民网年度盘点报道列入2021年度流行语/网络用语榜单；年份是上榜年，不是首见年。",
+        "review_basis": "source-text-reviewed"
+      }
+    ]
+  },
+  {
+    "word": "双向奔赴",
+    "pinyin": "shuang'xiang'ben'fu",
+    "evidence": [
+      {
+        "word": "双向奔赴",
+        "pinyin": "shuang xiang ben fu",
+        "period_start": "2023",
+        "period_end": "2023",
+        "source": "Existing 2022-2026 curated list; year sources in SOURCES.md",
+        "note": "Year is the source/reporting period, not first occurrence."
+      }
+    ]
+  },
+  {
+    "word": "双碳",
+    "pinyin": "shuang'tan",
+    "evidence": [
+      {
+        "word": "双碳",
+        "pinyin": "shuang tan",
+        "period_start": "2021",
+        "period_end": "2021",
+        "source": "https://ent.people.com.cn/n1/2022/0103/c1012-32322962.html",
+        "note": "人民网年度盘点报道列入2021年度中国媒体十大流行语；年份是上榜年，不是首见年。",
+        "review_basis": "source-text-reviewed"
+      }
+    ]
+  },
+  {
+    "word": "发奋图强",
+    "pinyin": "fa'fen'tu'qiang",
+    "evidence": [
+      {
+        "word": "发奋图强",
+        "pinyin": "fa fen tu qiang",
+        "period_start": "1950",
+        "period_end": "1959",
+        "source": "https://ent.people.com.cn/n1/2023/0326/c1012-32651244.html",
+        "note": "人民网正文明确列为20世纪50年代鲜活词语/表达；不是逐词首见日期。",
+        "review_basis": "source-text-reviewed"
+      }
+    ]
+  },
+  {
+    "word": "同志",
+    "pinyin": "tong'zhi",
+    "evidence": [
+      {
+        "word": "同志",
+        "pinyin": "tong zhi",
+        "period_start": "1949",
+        "period_end": "2023",
+        "source": "https://paper.people.com.cn/rmlt/html/2023-02/20/content_25984582.htm",
+        "note": "人民论坛正文称新中国成立之初流行；以来源历史上下文保留宽期，不代表逐年持续使用或首见。",
+        "review_basis": "source-text-reviewed"
+      }
+    ]
+  },
+  {
+    "word": "含金量还在上升",
+    "pinyin": "han'jin'liang'hai'zai'shang'sheng",
+    "evidence": [
+      {
+        "word": "含金量还在上升",
+        "pinyin": "han jin liang hai zai shang sheng",
+        "period_start": "2024",
+        "period_end": "2024",
+        "source": "Existing 2022-2026 curated list; year sources in SOURCES.md",
+        "note": "Year is the source/reporting period, not first occurrence."
+      }
+    ]
+  },
+  {
+    "word": "命运的齿轮开始转动",
+    "pinyin": "ming'yun'de'chi'lun'kai'shi'zhuan'dong",
+    "evidence": [
+      {
+        "word": "命运的齿轮开始转动",
+        "pinyin": "ming yun de chi lun kai shi zhuan dong",
+        "period_start": "2023",
+        "period_end": "2023",
+        "source": "Existing 2022-2026 curated list; year sources in SOURCES.md",
+        "note": "Year is the source/reporting period, not first occurrence."
+      }
+    ]
+  },
+  {
+    "word": "喜大普奔",
+    "pinyin": "xi'da'pu'ben",
+    "evidence": [
+      {
+        "word": "喜大普奔",
+        "pinyin": "xi da pu ben",
+        "period_start": "2013",
+        "period_end": "2013",
+        "source": "https://hudong.moe.gov.cn/s78/A19/A19_ztzl/ztzl_yywzfw/shenghuoxz/201312/t20131223_161120.html",
+        "note": "教育部2013年度盘点正文列为年度十大网络用语；日期是上榜年。",
+        "review_basis": "source-text-reviewed"
+      }
+    ]
+  },
+  {
+    "word": "四个现代化",
+    "pinyin": "si'ge'xian'dai'hua",
+    "evidence": [
+      {
+        "word": "四个现代化",
+        "pinyin": "si ge xian dai hua",
+        "period_start": "1970",
+        "period_end": "1979",
+        "source": "https://ent.people.com.cn/n1/2023/0326/c1012-32651244.html",
+        "note": "人民网正文明确列为20世纪70年代代表表达；不是逐词首见日期。",
+        "review_basis": "source-text-reviewed"
+      }
+    ]
+  },
+  {
+    "word": "四项基本原则",
+    "pinyin": "si'xiang'ji'ben'yuan'ze",
+    "evidence": [
+      {
+        "word": "四项基本原则",
+        "pinyin": "si xiang ji ben yuan ze",
+        "period_start": "1970",
+        "period_end": "1979",
+        "source": "https://ent.people.com.cn/n1/2023/0326/c1012-32651244.html",
+        "note": "人民网正文明确列为20世纪70年代代表表达；不是逐词首见日期。",
+        "review_basis": "source-text-reviewed"
+      }
+    ]
+  },
+  {
+    "word": "因特网",
+    "pinyin": "yin'te'wang",
+    "evidence": [
+      {
+        "word": "因特网",
+        "pinyin": "yin te wang",
+        "period_start": "1990",
+        "period_end": "1999",
+        "source": "https://paper.people.com.cn/rmlt/html/2023-02/20/content_25984582.htm",
+        "note": "人民论坛正文明确将该词列入20世纪90年代流行说法；年代是来源归纳，不代表最早书证。",
+        "review_basis": "source-text-reviewed"
+      }
+    ]
+  },
+  {
+    "word": "土豪",
+    "pinyin": "tu'hao",
+    "evidence": [
+      {
+        "word": "土豪",
+        "pinyin": "tu hao",
+        "period_start": "2013",
+        "period_end": "2013",
+        "source": "https://hudong.moe.gov.cn/s78/A19/A19_ztzl/ztzl_yywzfw/shenghuoxz/201312/t20131223_161120.html",
+        "note": "教育部2013年度盘点正文列入年度流行语、新词语及网络用语榜单；日期是上榜年。",
+        "review_basis": "source-text-reviewed"
+      }
+    ]
+  },
+  {
+    "word": "地球村",
+    "pinyin": "di'qiu'cun",
+    "evidence": [
+      {
+        "word": "地球村",
+        "pinyin": "di qiu cun",
+        "period_start": "1980",
+        "period_end": "1999",
+        "source": "https://ent.people.com.cn/n1/2023/0326/c1012-32651244.html",
+        "note": "人民网正文归为八九十年代代表表达；保留跨两个年代的来源宽范围。",
+        "review_basis": "source-text-reviewed"
+      }
+    ]
+  },
+  {
+    "word": "坑爹",
+    "pinyin": "keng'die",
+    "evidence": [
+      {
+        "word": "坑爹",
+        "pinyin": "keng die",
+        "period_start": "2011",
+        "period_end": "2011",
+        "source": "https://media.people.com.cn/n/2013/0131/c355649-20390645.html",
+        "note": "人民网文章按年份将其列为2011年网络热词；该年是归类年份，不表示首见年。",
+        "review_basis": "source-text-reviewed"
+      }
+    ]
+  },
+  {
+    "word": "多巴胺穿搭",
+    "pinyin": "duo'ba'an'chuan'da",
+    "evidence": [
+      {
+        "word": "多巴胺穿搭",
+        "pinyin": "duo ba an chuan da",
+        "period_start": "2023",
+        "period_end": "2023",
+        "source": "Existing 2022-2026 curated list; year sources in SOURCES.md",
+        "note": "Year is the source/reporting period, not first occurrence."
+      }
+    ]
+  },
+  {
+    "word": "多智能体",
+    "pinyin": "duo'zhi'neng'ti",
+    "evidence": [
+      {
+        "word": "多智能体",
+        "pinyin": "duo zhi neng ti",
+        "period_start": "2026",
+        "period_end": "2026",
+        "source": "Existing 2022-2026 curated list; year sources in SOURCES.md",
+        "note": "Year is the source/reporting period, not first occurrence."
+      }
+    ]
+  },
+  {
+    "word": "女排精神",
+    "pinyin": "nv'pai'jing'shen",
+    "evidence": [
+      {
+        "word": "女排精神",
+        "pinyin": "nv pai jing shen",
+        "period_start": "1980",
+        "period_end": "1999",
+        "source": "https://ent.people.com.cn/n1/2023/0326/c1012-32651244.html",
+        "note": "人民网正文归为八九十年代代表表达；保留跨两个年代的来源宽范围。",
+        "review_basis": "source-text-reviewed"
+      }
+    ]
+  },
+  {
+    "word": "女汉子",
+    "pinyin": "nv'han'zi",
+    "evidence": [
+      {
+        "word": "女汉子",
+        "pinyin": "nv han zi",
+        "period_start": "2013",
+        "period_end": "2013",
+        "source": "https://hudong.moe.gov.cn/s78/A19/A19_ztzl/ztzl_yywzfw/shenghuoxz/201312/t20131223_161120.html",
+        "note": "教育部2013年度盘点正文列入年度新词语及网络用语榜单；日期是上榜年。",
+        "review_basis": "source-text-reviewed"
+      }
+    ]
+  },
+  {
+    "word": "如何呢又能怎",
+    "pinyin": "ru'he'ne'you'neng'zen",
+    "evidence": [
+      {
+        "word": "如何呢又能怎",
+        "pinyin": "ru he ne you neng zen",
+        "period_start": "2025",
+        "period_end": "2025",
+        "source": "Existing 2022-2026 curated list; year sources in SOURCES.md",
+        "note": "Year is the source/reporting period, not first occurrence."
+      }
+    ]
+  },
+  {
+    "word": "学雷锋",
+    "pinyin": "xue'lei'feng",
+    "evidence": [
+      {
+        "word": "学雷锋",
+        "pinyin": "xue lei feng",
+        "period_start": "1960",
+        "period_end": "1969",
+        "source": "https://ent.people.com.cn/n1/2023/0326/c1012-32651244.html",
+        "note": "人民网正文明确列为20世纪60年代鲜活词语/口号；不是逐词首见日期。",
+        "review_basis": "source-text-reviewed"
+      }
+    ]
+  },
+  {
+    "word": "小康",
+    "pinyin": "xiao'kang",
+    "evidence": [
+      {
+        "word": "小康",
+        "pinyin": "xiao kang",
+        "period_start": "1978",
+        "period_end": "2023",
+        "source": "https://paper.people.com.cn/rmlt/html/2023-02/20/content_25984582.htm",
+        "note": "人民论坛正文称改革开放之后出现；保留改革开放至论文发表的宽期，不推定逐词年代或逐年持续使用。",
+        "review_basis": "source-text-reviewed"
+      }
+    ]
+  },
+  {
+    "word": "小资",
+    "pinyin": "xiao'zi",
+    "evidence": [
+      {
+        "word": "小资",
+        "pinyin": "xiao zi",
+        "period_start": "1990",
+        "period_end": "1999",
+        "source": "https://paper.people.com.cn/rmlt/html/2023-02/20/content_25984582.htm",
+        "note": "人民论坛正文明确将该词列入20世纪90年代流行说法；年代是来源归纳，不代表最早书证。",
+        "review_basis": "source-text-reviewed"
+      }
+    ]
+  },
+  {
+    "word": "小镇做题家",
+    "pinyin": "xiao'zhen'zuo'ti'jia",
+    "evidence": [
+      {
+        "word": "小镇做题家",
+        "pinyin": "xiao zhen zuo ti jia",
+        "period_start": "2022",
+        "period_end": "2022",
+        "source": "Existing 2022-2026 curated list; year sources in SOURCES.md",
+        "note": "Year is the source/reporting period, not first occurrence."
+      }
+    ]
+  },
+  {
+    "word": "尬聊",
+    "pinyin": "ga'liao",
+    "evidence": [
+      {
+        "word": "尬聊",
+        "pinyin": "ga liao",
+        "period_start": "2017",
+        "period_end": "2017",
+        "source": "https://qspfw.moe.gov.cn/html/hotnews/20171222/11828.html",
+        "note": "教育部普法网正文列入2017年度十大网络用语；年份是上榜年，不是首见年。",
+        "review_basis": "source-text-reviewed"
+      }
+    ]
+  },
+  {
+    "word": "屌丝",
+    "pinyin": "diao'si",
+    "evidence": [
+      {
+        "word": "屌丝",
+        "pinyin": "diao si",
+        "period_start": "2012",
+        "period_end": "2012",
+        "source": "https://media.people.com.cn/n/2013/0131/c355649-20390645.html",
+        "note": "人民网文章按年份将其列为2012年上半年网络热词；年份是归类范围，不表示首见年。",
+        "review_basis": "source-text-reviewed"
+      }
+    ]
+  },
+  {
+    "word": "帅呆了",
+    "pinyin": "shuai'dai'le",
+    "evidence": [
+      {
+        "word": "帅呆了",
+        "pinyin": "shuai dai le",
+        "period_start": "1990",
+        "period_end": "1999",
+        "source": "https://paper.people.com.cn/rmlt/html/2023-02/20/content_25984582.htm",
+        "note": "人民论坛正文明确将该词列入20世纪90年代流行说法；年代是来源归纳，不代表最早书证。",
+        "review_basis": "source-text-reviewed"
+      }
+    ]
+  },
+  {
+    "word": "建设",
+    "pinyin": "jian'she",
+    "evidence": [
+      {
+        "word": "建设",
+        "pinyin": "jian she",
+        "period_start": "1949",
+        "period_end": "2023",
+        "source": "https://paper.people.com.cn/rmlt/html/2023-02/20/content_25984582.htm",
+        "note": "人民论坛正文称新中国成立之初流行；以来源历史上下文保留宽期，不代表逐年持续使用或首见。",
+        "review_basis": "source-text-reviewed"
+      }
+    ]
+  },
+  {
+    "word": "微博",
+    "pinyin": "wei'bo",
+    "evidence": [
+      {
+        "word": "微博",
+        "pinyin": "wei bo",
+        "period_start": "2010",
+        "period_end": "2010",
+        "source": "https://www.moe.gov.cn/jyb_xwfb/gzdt_gzdt/moe_1485/201012/t20101231_113648.html",
+        "note": "教育部发布的2010年度媒体流行语榜单收录此词。 用户2026-10-23明确批准纳入；本轮未成功读取原来源正文，不作为独立来源核验通过。",
+        "review_basis": "user-approved-source-not-independently-verified"
+      }
+    ]
+  },
+  {
+    "word": "德先生",
+    "pinyin": "de'xian'sheng",
+    "evidence": [
+      {
+        "word": "德先生",
+        "pinyin": "de xian sheng",
+        "period_start": "1912",
+        "period_end": "1949",
+        "source": "https://culture.people.com.cn/n/2014/0812/c22219-25449701.html",
+        "note": "人民网报道明确将此词列为民国时期新词；来源所述词典民国卷期为1912—1949。保留来源宽范围，不推定具体年份。",
+        "review_basis": "source-text-reviewed"
+      }
+    ]
+  },
+  {
+    "word": "情绪价值",
+    "pinyin": "qing'xu'jia'zhi",
+    "evidence": [
+      {
+        "word": "情绪价值",
+        "pinyin": "qing xu jia zhi",
+        "period_start": "2023",
+        "period_end": "2023",
+        "source": "Existing 2022-2026 curated list; year sources in SOURCES.md",
+        "note": "Year is the source/reporting period, not first occurrence."
+      }
+    ]
+  },
+  {
+    "word": "扎心了",
+    "pinyin": "zha'xin'le",
+    "evidence": [
+      {
+        "word": "扎心了",
+        "pinyin": "zha xin le",
+        "period_start": "2017",
+        "period_end": "2017",
+        "source": "https://qspfw.moe.gov.cn/html/hotnews/20171222/11828.html",
+        "note": "教育部普法网正文列入2017年度十大网络用语，榜单写作“扎心了，老铁”；年份是上榜年。",
+        "review_basis": "source-text-reviewed"
+      }
+    ]
+  },
+  {
+    "word": "拉布布",
+    "pinyin": "la'bu'bu",
+    "evidence": [
+      {
+        "word": "拉布布",
+        "pinyin": "la bu bu",
+        "period_start": "2025",
+        "period_end": "2025",
+        "source": "Existing 2022-2026 curated list; year sources in SOURCES.md",
+        "note": "Year is the source/reporting period, not first occurrence."
+      }
+    ]
+  },
+  {
+    "word": "拿捏",
+    "pinyin": "na'nie",
+    "evidence": [
+      {
+        "word": "拿捏",
+        "pinyin": "na nie",
+        "period_start": "2022",
+        "period_end": "2022",
+        "source": "Existing 2022-2026 curated list; year sources in SOURCES.md",
+        "note": "Year is the source/reporting period, not first occurrence."
+      }
+    ]
+  },
+  {
+    "word": "搭子",
+    "pinyin": "da'zi",
+    "evidence": [
+      {
+        "word": "搭子",
+        "pinyin": "da zi",
+        "period_start": "2023",
+        "period_end": "2023",
+        "source": "Existing 2022-2026 curated list; year sources in SOURCES.md",
+        "note": "Year is the source/reporting period, not first occurrence."
+      }
+    ]
+  },
+  {
+    "word": "摩登",
+    "pinyin": "mo'deng",
+    "evidence": [
+      {
+        "word": "摩登",
+        "pinyin": "mo deng",
+        "period_start": "1920",
+        "period_end": "1939",
+        "source": "https://culture.people.com.cn/n1/2016/1222/c22219-28970003.html",
+        "note": "人民网正文明确称上世纪二三十年代“摩登”是不折不扣的热词；按二三十年代宽范围记年，不推定首见年份。",
+        "review_basis": "source-text-reviewed"
+      }
+    ]
+  },
+  {
+    "word": "摩登女郎",
+    "pinyin": "mo'deng'nu'lang",
+    "evidence": [
+      {
+        "word": "摩登女郎",
+        "pinyin": "mo deng nu lang",
+        "period_start": "1920",
+        "period_end": "1939",
+        "source": "https://www.chinawriter.com.cn/n1/2019/0101/c404033-30497868.html",
+        "note": "中国作家网论文称该词由上世纪二三十年代上海现代派作家、画家创造，且迅速成为当时传媒流行词；按来源宽范围记年，不推定首见年份。",
+        "review_basis": "source-text-reviewed"
+      }
+    ]
+  },
+  {
+    "word": "改造",
+    "pinyin": "gai'zao",
+    "evidence": [
+      {
+        "word": "改造",
+        "pinyin": "gai zao",
+        "period_start": "1949",
+        "period_end": "2023",
+        "source": "https://paper.people.com.cn/rmlt/html/2023-02/20/content_25984582.htm",
+        "note": "人民论坛正文称新中国成立之初流行；以来源历史上下文保留宽期，不代表逐年持续使用或首见。",
+        "review_basis": "source-text-reviewed"
+      }
+    ]
+  },
+  {
+    "word": "改革开放",
+    "pinyin": "gai'ge'kai'fang",
+    "evidence": [
+      {
+        "word": "改革开放",
+        "pinyin": "gai ge kai fang",
+        "period_start": "1970",
+        "period_end": "1979",
+        "source": "https://ent.people.com.cn/n1/2023/0326/c1012-32651244.html",
+        "note": "人民网正文明确列为20世纪70年代代表表达；不是逐词首见日期。",
+        "review_basis": "source-text-reviewed"
+      }
+    ]
+  },
+  {
+    "word": "敬自己一杯",
+    "pinyin": "jing'zi'ji'yi'bei",
+    "evidence": [
+      {
+        "word": "敬自己一杯",
+        "pinyin": "jing zi ji yi bei",
+        "period_start": "2025",
+        "period_end": "2025",
+        "source": "Existing 2022-2026 curated list; year sources in SOURCES.md",
+        "note": "Year is the source/reporting period, not first occurrence."
+      }
+    ]
+  },
+  {
+    "word": "数字人",
+    "pinyin": "shu'zi'ren",
+    "evidence": [
+      {
+        "word": "数字人",
+        "pinyin": "shu zi ren",
+        "period_start": "2022",
+        "period_end": "2022",
+        "source": "Existing 2022-2026 curated list; year sources in SOURCES.md",
+        "note": "Year is the source/reporting period, not first occurrence."
+      }
+    ]
+  },
+  {
+    "word": "数字藏品",
+    "pinyin": "shu'zi'cang'pin",
+    "evidence": [
+      {
+        "word": "数字藏品",
+        "pinyin": "shu zi cang pin",
+        "period_start": "2022",
+        "period_end": "2022",
+        "source": "Existing 2022-2026 curated list; year sources in SOURCES.md",
+        "note": "Year is the source/reporting period, not first occurrence."
+      }
+    ]
+  },
+  {
+    "word": "数智生活",
+    "pinyin": "shu'zhi'sheng'huo",
+    "evidence": [
+      {
+        "word": "数智生活",
+        "pinyin": "shu zhi sheng huo",
+        "period_start": "2023",
+        "period_end": "2023",
+        "source": "Existing 2022-2026 curated list; year sources in SOURCES.md",
+        "note": "Year is the source/reporting period, not first occurrence."
+      }
+    ]
+  },
+  {
+    "word": "新大众文艺",
+    "pinyin": "xin'da'zhong'wen'yi",
+    "evidence": [
+      {
+        "word": "新大众文艺",
+        "pinyin": "xin da zhong wen yi",
+        "period_start": "2025",
+        "period_end": "2025",
+        "source": "Existing 2022-2026 curated list; year sources in SOURCES.md",
+        "note": "Year is the source/reporting period, not first occurrence."
+      }
+    ]
+  },
+  {
+    "word": "新质生产力",
+    "pinyin": "xin'zhi'sheng'chan'li",
+    "evidence": [
+      {
+        "word": "新质生产力",
+        "pinyin": "xin zhi sheng chan li",
+        "period_start": "2023",
+        "period_end": "2023",
+        "source": "Existing 2022-2026 curated list; year sources in SOURCES.md",
+        "note": "Year is the source/reporting period, not first occurrence."
+      }
+    ]
+  },
+  {
+    "word": "显眼包",
+    "pinyin": "xian'yan'bao",
+    "evidence": [
+      {
+        "word": "显眼包",
+        "pinyin": "xian yan bao",
+        "period_start": "2023",
+        "period_end": "2023",
+        "source": "Existing 2022-2026 curated list; year sources in SOURCES.md",
+        "note": "Year is the source/reporting period, not first occurrence."
+      }
+    ]
+  },
+  {
+    "word": "智能体",
+    "pinyin": "zhi'neng'ti",
+    "evidence": [
+      {
+        "word": "智能体",
+        "pinyin": "zhi neng ti",
+        "period_start": "2026",
+        "period_end": "2026",
+        "source": "Existing 2022-2026 curated list; year sources in SOURCES.md",
+        "note": "Year is the source/reporting period, not first occurrence."
+      }
+    ]
+  },
+  {
+    "word": "智能体互联",
+    "pinyin": "zhi'neng'ti'hu'lian",
+    "evidence": [
+      {
+        "word": "智能体互联",
+        "pinyin": "zhi neng ti hu lian",
+        "period_start": "2026",
+        "period_end": "2026",
+        "source": "Existing 2022-2026 curated list; year sources in SOURCES.md",
+        "note": "Year is the source/reporting period, not first occurrence."
+      }
+    ]
+  },
+  {
+    "word": "有木有",
+    "pinyin": "you'mu'you",
+    "evidence": [
+      {
+        "word": "有木有",
+        "pinyin": "you mu you",
+        "period_start": "2011",
+        "period_end": "2011",
+        "source": "https://media.people.com.cn/n/2013/0131/c355649-20390645.html",
+        "note": "人民网文章按年份将其列为2011年网络热词；该年是归类年份，不表示首见年。",
+        "review_basis": "source-text-reviewed"
+      }
+    ]
+  },
+  {
+    "word": "村咖",
+    "pinyin": "cun'ka",
+    "evidence": [
+      {
+        "word": "村咖",
+        "pinyin": "cun ka",
+        "period_start": "2025",
+        "period_end": "2025",
+        "source": "Existing 2022-2026 curated list; year sources in SOURCES.md",
+        "note": "Year is the source/reporting period, not first occurrence."
+      }
+    ]
+  },
+  {
+    "word": "村超",
+    "pinyin": "cun'chao",
+    "evidence": [
+      {
+        "word": "村超",
+        "pinyin": "cun chao",
+        "period_start": "2023",
+        "period_end": "2023",
+        "source": "Existing 2022-2026 curated list; year sources in SOURCES.md",
+        "note": "Year is the source/reporting period, not first occurrence."
+      }
+    ]
+  },
+  {
+    "word": "杭州六小龙",
+    "pinyin": "hang'zhou'liu'xiao'long",
+    "evidence": [
+      {
+        "word": "杭州六小龙",
+        "pinyin": "hang zhou liu xiao long",
+        "period_start": "2025",
+        "period_end": "2025",
+        "source": "Existing 2022-2026 curated list; year sources in SOURCES.md",
+        "note": "Year is the source/reporting period, not first occurrence."
+      }
+    ]
+  },
+  {
+    "word": "松弛感",
+    "pinyin": "song'chi'gan",
+    "evidence": [
+      {
+        "word": "松弛感",
+        "pinyin": "song chi gan",
+        "period_start": "2024",
+        "period_end": "2024",
+        "source": "Existing 2022-2026 curated list; year sources in SOURCES.md",
+        "note": "Year is the source/reporting period, not first occurrence."
+      }
+    ]
+  },
+  {
+    "word": "正能量",
+    "pinyin": "zheng'neng'liang",
+    "evidence": [
+      {
+        "word": "正能量",
+        "pinyin": "zheng neng liang",
+        "period_start": "2013",
+        "period_end": "2013",
+        "source": "https://hudong.moe.gov.cn/s78/A19/A19_ztzl/ztzl_yywzfw/shenghuoxz/201312/t20131223_161120.html",
+        "note": "教育部2013年度盘点正文列为年度国内词；日期是上榜年，不表示首见年。",
+        "review_basis": "source-text-reviewed"
+      }
+    ]
+  },
+  {
+    "word": "汗",
+    "pinyin": "han",
+    "evidence": [
+      {
+        "word": "汗",
+        "pinyin": "han",
+        "period_start": "2004",
+        "period_end": "2004",
+        "source": "https://www.moe.gov.cn/jyb_xwfb/xw_ft/moe_46/moe_1055/tnull_11019.html",
+        "note": "教育部报道列于2004年十大网络流行用语。 用户2026-10-23明确批准纳入；本轮未成功读取原来源正文，不作为独立来源核验通过。",
+        "review_basis": "user-approved-source-not-independently-verified"
+      }
+    ]
+  },
+  {
+    "word": "沉浸式",
+    "pinyin": "chen'jin'shi",
+    "evidence": [
+      {
+        "word": "沉浸式",
+        "pinyin": "chen jin shi",
+        "period_start": "2022",
+        "period_end": "2022",
+        "source": "Existing 2022-2026 curated list; year sources in SOURCES.md",
+        "note": "Year is the source/reporting period, not first occurrence."
+      }
+    ]
+  },
+  {
+    "word": "沙发",
+    "pinyin": "sha'fa",
+    "evidence": [
+      {
+        "word": "沙发",
+        "pinyin": "sha fa",
+        "period_start": "2004",
+        "period_end": "2004",
+        "source": "https://www.moe.gov.cn/jyb_xwfb/xw_ft/moe_46/moe_1055/tnull_11019.html",
+        "note": "教育部报道列于2004年十大网络流行用语。 用户2026-10-23明确批准纳入；本轮未成功读取原来源正文，不作为独立来源核验通过。",
+        "review_basis": "user-approved-source-not-independently-verified"
+      }
+    ]
+  },
+  {
+    "word": "油腻",
+    "pinyin": "you'ni",
+    "evidence": [
+      {
+        "word": "油腻",
+        "pinyin": "you ni",
+        "period_start": "2017",
+        "period_end": "2017",
+        "source": "https://qspfw.moe.gov.cn/html/hotnews/20171222/11828.html",
+        "note": "教育部普法网正文列入2017年度十大网络用语；年份是上榜年，不是首见年。",
+        "review_basis": "source-text-reviewed"
+      }
+    ]
+  },
+  {
+    "word": "活人感",
+    "pinyin": "huo'ren'gan",
+    "evidence": [
+      {
+        "word": "活人感",
+        "pinyin": "huo ren gan",
+        "period_start": "2025",
+        "period_end": "2025",
+        "source": "Existing 2022-2026 curated list; year sources in SOURCES.md",
+        "note": "Year is the source/reporting period, not first occurrence."
+      }
+    ]
+  },
+  {
+    "word": "浓人淡人",
+    "pinyin": "nong'ren'dan'ren",
+    "evidence": [
+      {
+        "word": "浓人淡人",
+        "pinyin": "nong ren dan ren",
+        "period_start": "2024",
+        "period_end": "2024",
+        "source": "Existing 2022-2026 curated list; year sources in SOURCES.md",
+        "note": "Year is the source/reporting period, not first occurrence."
+      }
+    ]
+  },
+  {
+    "word": "浪浪山小妖怪",
+    "pinyin": "lang'lang'shan'xiao'yao'guai",
+    "evidence": [
+      {
+        "word": "浪浪山小妖怪",
+        "pinyin": "lang lang shan xiao yao guai",
+        "period_start": "2025",
+        "period_end": "2025",
+        "source": "Existing 2022-2026 curated list; year sources in SOURCES.md",
+        "note": "Year is the source/reporting period, not first occurrence."
+      }
+    ]
+  },
+  {
+    "word": "浮云",
+    "pinyin": "fu'yun",
+    "evidence": [
+      {
+        "word": "浮云",
+        "pinyin": "fu yun",
+        "period_start": "2010",
+        "period_end": "2010",
+        "source": "https://media.people.com.cn/n/2013/0131/c355649-20390645.html",
+        "note": "人民网文章按年份将其列为2010年网络热词；该年是归类年份，不表示首见年。",
+        "review_basis": "source-text-reviewed"
+      }
+    ]
+  },
+  {
+    "word": "深度求索",
+    "pinyin": "shen'du'qiu'suo",
+    "evidence": [
+      {
+        "word": "深度求索",
+        "pinyin": "shen du qiu suo",
+        "period_start": "2025",
+        "period_end": "2025",
+        "source": "Existing 2022-2026 curated list; year sources in SOURCES.md",
+        "note": "Year is the source/reporting period, not first occurrence."
+      }
+    ]
+  },
+  {
+    "word": "潜水",
+    "pinyin": "qian'shui",
+    "evidence": [
+      {
+        "word": "潜水",
+        "pinyin": "qian shui",
+        "period_start": "2004",
+        "period_end": "2004",
+        "source": "https://www.moe.gov.cn/jyb_xwfb/xw_ft/moe_46/moe_1055/tnull_11019.html",
+        "note": "教育部报道列于2004年十大网络流行用语。 用户2026-10-23明确批准纳入；本轮未成功读取原来源正文，不作为独立来源核验通过。",
+        "review_basis": "user-approved-source-not-independently-verified"
+      }
+    ]
+  },
+  {
+    "word": "炒股",
+    "pinyin": "chao'gu",
+    "evidence": [
+      {
+        "word": "炒股",
+        "pinyin": "chao gu",
+        "period_start": "1990",
+        "period_end": "1999",
+        "source": "https://paper.people.com.cn/rmlt/html/2023-02/20/content_25984582.htm",
+        "note": "人民论坛正文明确将该词列入20世纪90年代流行说法；年代是来源归纳，不代表最早书证。",
+        "review_basis": "source-text-reviewed"
+      }
+    ]
+  },
+  {
+    "word": "烟火气",
+    "pinyin": "yan'huo'qi",
+    "evidence": [
+      {
+        "word": "烟火气",
+        "pinyin": "yan huo qi",
+        "period_start": "2022",
+        "period_end": "2022",
+        "source": "Existing 2022-2026 curated list; year sources in SOURCES.md",
+        "note": "Year is the source/reporting period, not first occurrence."
+      }
+    ]
+  },
+  {
+    "word": "爱人",
+    "pinyin": "ai'ren",
+    "evidence": [
+      {
+        "word": "爱人",
+        "pinyin": "ai ren",
+        "period_start": "1912",
+        "period_end": "1949",
+        "source": "https://culture.people.com.cn/n/2014/0812/c22219-25449701.html",
+        "note": "人民网报道明确将此词列为民国时期新词；来源所述词典民国卷期为1912—1949。保留来源宽范围，不推定具体年份。",
+        "review_basis": "source-text-reviewed"
+      }
+    ]
+  },
+  {
+    "word": "特种兵式旅游",
+    "pinyin": "te'zhong'bing'shi'lv'you",
+    "evidence": [
+      {
+        "word": "特种兵式旅游",
+        "pinyin": "te zhong bing shi lv you",
+        "period_start": "2023",
+        "period_end": "2023",
+        "source": "Existing 2022-2026 curated list; year sources in SOURCES.md",
+        "note": "Year is the source/reporting period, not first occurrence."
+      }
+    ]
+  },
+  {
+    "word": "犀利哥",
+    "pinyin": "xi'li'ge",
+    "evidence": [
+      {
+        "word": "犀利哥",
+        "pinyin": "xi li ge",
+        "period_start": "2010",
+        "period_end": "2010",
+        "source": "https://www.moe.gov.cn/jyb_xwfb/gzdt_gzdt/moe_1485/201012/t20101231_113648.html",
+        "note": "教育部发布的2010年度娱乐流行语榜单收录此词。 用户2026-10-23明确批准纳入；本轮未成功读取原来源正文，不作为独立来源核验通过。",
+        "review_basis": "user-approved-source-not-independently-verified"
+      }
+    ]
+  },
+  {
+    "word": "班味",
+    "pinyin": "ban'wei",
+    "evidence": [
+      {
+        "word": "班味",
+        "pinyin": "ban wei",
+        "period_start": "2024",
+        "period_end": "2024",
+        "source": "Existing 2022-2026 curated list; year sources in SOURCES.md",
+        "note": "Year is the source/reporting period, not first occurrence."
+      }
+    ]
+  },
+  {
+    "word": "班味儿",
+    "pinyin": "ban'wei'er",
+    "evidence": [
+      {
+        "word": "班味儿",
+        "pinyin": "ban wei er",
+        "period_start": "2024",
+        "period_end": "2024",
+        "source": "Existing 2022-2026 curated list; year sources in SOURCES.md",
+        "note": "Year is the source/reporting period, not first occurrence."
+      }
+    ]
+  },
+  {
+    "word": "甄嬛体",
+    "pinyin": "zhen'huan'ti",
+    "evidence": [
+      {
+        "word": "甄嬛体",
+        "pinyin": "zhen huan ti",
+        "period_start": "2012",
+        "period_end": "2012",
+        "source": "https://media.people.com.cn/n/2013/0131/c355649-20390645.html",
+        "note": "人民网文章按年份将其列为2012年上半年网络热词；年份是归类范围，不表示首见年。",
+        "review_basis": "source-text-reviewed"
+      }
+    ]
+  },
+  {
+    "word": "生成式人工智能",
+    "pinyin": "sheng'cheng'shi'ren'gong'zhi'neng",
+    "evidence": [
+      {
+        "word": "生成式人工智能",
+        "pinyin": "sheng cheng shi ren gong zhi neng",
+        "period_start": "2023",
+        "period_end": "2023",
+        "source": "Existing 2022-2026 curated list; year sources in SOURCES.md",
+        "note": "Year is the source/reporting period, not first occurrence."
+      }
+    ]
+  },
+  {
+    "word": "电子榨菜",
+    "pinyin": "dian'zi'zha'cai",
+    "evidence": [
+      {
+        "word": "电子榨菜",
+        "pinyin": "dian zi zha cai",
+        "period_start": "2022",
+        "period_end": "2022",
+        "source": "Existing 2022-2026 curated list; year sources in SOURCES.md",
+        "note": "Year is the source/reporting period, not first occurrence."
+      }
+    ]
+  },
+  {
+    "word": "疫苗接种",
+    "pinyin": "yi'miao'jie'zhong",
+    "evidence": [
+      {
+        "word": "疫苗接种",
+        "pinyin": "yi miao jie zhong",
+        "period_start": "2021",
+        "period_end": "2021",
+        "source": "https://ent.people.com.cn/n1/2022/0103/c1012-32322962.html",
+        "note": "人民网年度盘点报道列入2021年度中国媒体十大流行语；年份是上榜年，不是首见年。",
+        "review_basis": "source-text-reviewed"
+      }
+    ]
+  },
+  {
+    "word": "百模大战",
+    "pinyin": "bai'mo'da'zhan",
+    "evidence": [
+      {
+        "word": "百模大战",
+        "pinyin": "bai mo da zhan",
+        "period_start": "2023",
+        "period_end": "2023",
+        "source": "Existing 2022-2026 curated list; year sources in SOURCES.md",
+        "note": "Year is the source/reporting period, not first occurrence."
+      }
+    ]
+  },
+  {
+    "word": "的确良",
+    "pinyin": "di'que'liang",
+    "evidence": [
+      {
+        "word": "的确良",
+        "pinyin": "di que liang",
+        "period_start": "1949",
+        "period_end": "2023",
+        "source": "https://paper.people.com.cn/rmlt/html/2023-02/20/content_25984582.htm",
+        "note": "人民论坛正文称新中国成立之初流行；以来源历史上下文保留宽期，不代表逐年持续使用或首见。",
+        "review_basis": "source-text-reviewed"
+      }
+    ]
+  },
+  {
+    "word": "破防",
+    "pinyin": "po'fang",
+    "evidence": [
+      {
+        "word": "破防",
+        "pinyin": "po fang",
+        "period_start": "2021",
+        "period_end": "2021",
+        "source": "https://ent.people.com.cn/n1/2022/0103/c1012-32322962.html",
+        "note": "人民网年度盘点报道列入2021年度流行语/网络用语榜单；年份是上榜年，不是首见年。",
+        "review_basis": "source-text-reviewed"
+      }
+    ]
+  },
+  {
+    "word": "硬控",
+    "pinyin": "ying'kong",
+    "evidence": [
+      {
+        "word": "硬控",
+        "pinyin": "ying kong",
+        "period_start": "2024",
+        "period_end": "2024",
+        "source": "Existing 2022-2026 curated list; year sources in SOURCES.md",
+        "note": "Year is the source/reporting period, not first occurrence."
+      }
+    ]
+  },
+  {
+    "word": "神马",
+    "pinyin": "shen'ma",
+    "evidence": [
+      {
+        "word": "神马",
+        "pinyin": "shen ma",
+        "period_start": "2010",
+        "period_end": "2010",
+        "source": "https://media.people.com.cn/n/2013/0131/c355649-20390645.html",
+        "note": "人民网文章按年份将其列为2010年网络热词；该年是归类年份，不表示首见年。",
+        "review_basis": "source-text-reviewed"
+      }
+    ]
+  },
+  {
+    "word": "票根经济",
+    "pinyin": "piao'gen'jing'ji",
+    "evidence": [
+      {
+        "word": "票根经济",
+        "pinyin": "piao gen jing ji",
+        "period_start": "2025",
+        "period_end": "2025",
+        "source": "Existing 2022-2026 curated list; year sources in SOURCES.md",
+        "note": "Year is the source/reporting period, not first occurrence."
+      }
+    ]
+  },
+  {
+    "word": "精神内耗",
+    "pinyin": "jing'shen'nei'hao",
+    "evidence": [
+      {
+        "word": "精神内耗",
+        "pinyin": "jing shen nei hao",
+        "period_start": "2022",
+        "period_end": "2022",
+        "source": "Existing 2022-2026 curated list; year sources in SOURCES.md",
+        "note": "Year is the source/reporting period, not first occurrence."
+      }
+    ]
+  },
+  {
+    "word": "给力",
+    "pinyin": "gei'li",
+    "evidence": [
+      {
+        "word": "给力",
+        "pinyin": "gei li",
+        "period_start": "2010",
+        "period_end": "2010",
+        "source": "https://www.moe.gov.cn/jyb_xwfb/gzdt_gzdt/moe_1485/201012/t20101231_113648.html",
+        "note": "教育部发布的2010年度媒体流行语榜单收录此词。 用户2026-10-23明确批准纳入；本轮未成功读取原来源正文，不作为独立来源核验通过。",
+        "review_basis": "user-approved-source-not-independently-verified"
+      }
+    ]
+  },
+  {
+    "word": "老板",
+    "pinyin": "lao'ban",
+    "evidence": [
+      {
+        "word": "老板",
+        "pinyin": "lao ban",
+        "period_start": "1990",
+        "period_end": "1999",
+        "source": "https://paper.people.com.cn/rmlt/html/2023-02/20/content_25984582.htm",
+        "note": "人民论坛正文明确将该词列入20世纪90年代流行说法；年代是来源归纳，不代表最早书证。",
+        "review_basis": "source-text-reviewed"
+      }
+    ]
+  },
+  {
+    "word": "育儿补贴",
+    "pinyin": "yu'er'bu'tie",
+    "evidence": [
+      {
+        "word": "育儿补贴",
+        "pinyin": "yu er bu tie",
+        "period_start": "2025",
+        "period_end": "2025",
+        "source": "Existing 2022-2026 curated list; year sources in SOURCES.md",
+        "note": "Year is the source/reporting period, not first occurrence."
+      }
+    ]
+  },
+  {
+    "word": "自力更生",
+    "pinyin": "zi'li'geng'sheng",
+    "evidence": [
+      {
+        "word": "自力更生",
+        "pinyin": "zi li geng sheng",
+        "period_start": "1950",
+        "period_end": "1959",
+        "source": "https://ent.people.com.cn/n1/2023/0326/c1012-32651244.html",
+        "note": "人民网正文明确列为20世纪50年代鲜活词语/表达；不是逐词首见日期。",
+        "review_basis": "source-text-reviewed"
+      }
+    ]
+  },
+  {
+    "word": "航空公司",
+    "pinyin": "hang'kong'gong'si",
+    "evidence": [
+      {
+        "word": "航空公司",
+        "pinyin": "hang kong gong si",
+        "period_start": "1912",
+        "period_end": "1949",
+        "source": "https://culture.people.com.cn/n/2014/0812/c22219-25449701.html",
+        "note": "人民网报道明确将此词列为民国时期新词；来源所述词典民国卷期为1912—1949。保留来源宽范围，不推定具体年份。",
+        "review_basis": "source-text-reviewed"
+      }
+    ]
+  },
+  {
+    "word": "苏超",
+    "pinyin": "su'chao",
+    "evidence": [
+      {
+        "word": "苏超",
+        "pinyin": "su chao",
+        "period_start": "2025",
+        "period_end": "2025",
+        "source": "Existing 2022-2026 curated list; year sources in SOURCES.md",
+        "note": "Year is the source/reporting period, not first occurrence."
+      }
+    ]
+  },
+  {
+    "word": "蒜你狠",
+    "pinyin": "suan'ni'hen",
+    "evidence": [
+      {
+        "word": "蒜你狠",
+        "pinyin": "suan ni hen",
+        "period_start": "2010",
+        "period_end": "2010",
+        "source": "https://media.people.com.cn/n/2013/0131/c355649-20390645.html",
+        "note": "人民网文章将其列于2010年“蒜你狠”系列网络热词；该年是归类年份，不表示首见年。",
+        "review_basis": "source-text-reviewed"
+      }
+    ]
+  },
+  {
+    "word": "词元",
+    "pinyin": "ci'yuan",
+    "evidence": [
+      {
+        "word": "词元",
+        "pinyin": "ci yuan",
+        "period_start": "2026",
+        "period_end": "2026",
+        "source": "Existing 2022-2026 curated list; year sources in SOURCES.md",
+        "note": "Year is the source/reporting period, not first occurrence."
+      }
+    ]
+  },
+  {
+    "word": "谷子",
+    "pinyin": "gu'zi",
+    "evidence": [
+      {
+        "word": "谷子",
+        "pinyin": "gu zi",
+        "period_start": "2024",
+        "period_end": "2024",
+        "source": "Existing 2022-2026 curated list; year sources in SOURCES.md",
+        "note": "Year is the source/reporting period, not first occurrence."
+      }
+    ]
+  },
+  {
+    "word": "赛先生",
+    "pinyin": "sai'xian'sheng",
+    "evidence": [
+      {
+        "word": "赛先生",
+        "pinyin": "sai xian sheng",
+        "period_start": "1912",
+        "period_end": "1949",
+        "source": "https://culture.people.com.cn/n/2014/0812/c22219-25449701.html",
+        "note": "人民网报道明确将此词列为民国时期新词；来源所述词典民国卷期为1912—1949。保留来源宽范围，不推定具体年份。",
+        "review_basis": "source-text-reviewed"
+      }
+    ]
+  },
+  {
+    "word": "赶英超美",
+    "pinyin": "gan'ying'chao'mei",
+    "evidence": [
+      {
+        "word": "赶英超美",
+        "pinyin": "gan ying chao mei",
+        "period_start": "1949",
+        "period_end": "1978",
+        "source": "https://media.people.com.cn/n1/2016/1024/c40606-28800954.html",
+        "note": "人民网2016正文列为新中国成立至改革开放前流行语；逐词年代未给出，保留该宽期。",
+        "review_basis": "source-text-reviewed"
+      }
+    ]
+  },
+  {
+    "word": "跨境支付通",
+    "pinyin": "kua'jing'zhi'fu'tong",
+    "evidence": [
+      {
+        "word": "跨境支付通",
+        "pinyin": "kua jing zhi fu tong",
+        "period_start": "2025",
+        "period_end": "2025",
+        "source": "Existing 2022-2026 curated list; year sources in SOURCES.md",
+        "note": "Year is the source/reporting period, not first occurrence."
+      }
+    ]
+  },
+  {
+    "word": "路线是个纲",
+    "pinyin": "lu'xian'shi'ge'gang",
+    "evidence": [
+      {
+        "word": "路线是个纲",
+        "pinyin": "lu xian shi ge gang",
+        "period_start": "1960",
+        "period_end": "1969",
+        "source": "https://media.people.com.cn/n1/2016/1024/c40606-28800954.html",
+        "note": "人民网2016正文明确称此话在上世纪60年代成为口头禅。",
+        "review_basis": "source-text-reviewed"
+      }
+    ]
+  },
+  {
+    "word": "躺平",
+    "pinyin": "tang'ping",
+    "evidence": [
+      {
+        "word": "躺平",
+        "pinyin": "tang ping",
+        "period_start": "2021",
+        "period_end": "2021",
+        "source": "https://ent.people.com.cn/n1/2022/0103/c1012-32322962.html",
+        "note": "人民网年度盘点报道列入2021年度流行语/网络用语榜单；年份是上榜年，不是首见年。",
+        "review_basis": "source-text-reviewed"
+      }
+    ]
+  },
+  {
+    "word": "迪斯科",
+    "pinyin": "di'si'ke",
+    "evidence": [
+      {
+        "word": "迪斯科",
+        "pinyin": "di si ke",
+        "period_start": "1978",
+        "period_end": "2023",
+        "source": "https://paper.people.com.cn/rmlt/html/2023-02/20/content_25984582.htm",
+        "note": "人民论坛正文称改革开放之后出现；保留改革开放至论文发表的宽期，不推定逐词年代或逐年持续使用。",
+        "review_basis": "source-text-reviewed"
+      }
+    ]
+  },
+  {
+    "word": "逆袭",
+    "pinyin": "ni'xi",
+    "evidence": [
+      {
+        "word": "逆袭",
+        "pinyin": "ni xi",
+        "period_start": "2012",
+        "period_end": "2012",
+        "source": "https://media.people.com.cn/n/2013/0131/c355649-20390645.html",
+        "note": "人民网文章按年份将其列为2012年上半年网络热词；年份是归类范围，不表示首见年。",
+        "review_basis": "source-text-reviewed"
+      }
+    ]
+  },
+  {
+    "word": "酷毙了",
+    "pinyin": "ku'bi'le",
+    "evidence": [
+      {
+        "word": "酷毙了",
+        "pinyin": "ku bi le",
+        "period_start": "1990",
+        "period_end": "1999",
+        "source": "https://paper.people.com.cn/rmlt/html/2023-02/20/content_25984582.htm",
+        "note": "人民论坛正文明确将该词列入20世纪90年代流行说法；年代是来源归纳，不代表最早书证。",
+        "review_basis": "source-text-reviewed"
+      }
+    ]
+  },
+  {
+    "word": "铁人",
+    "pinyin": "tie'ren",
+    "evidence": [
+      {
+        "word": "铁人",
+        "pinyin": "tie ren",
+        "period_start": "1950",
+        "period_end": "1959",
+        "source": "https://ent.people.com.cn/n1/2023/0326/c1012-32651244.html",
+        "note": "人民网正文明确列为20世纪50年代鲜活词语/表达；不是逐词首见日期。",
+        "review_basis": "source-text-reviewed"
+      }
+    ]
+  },
+  {
+    "word": "阶级斗争",
+    "pinyin": "jie'ji'dou'zheng",
+    "evidence": [
+      {
+        "word": "阶级斗争",
+        "pinyin": "jie ji dou zheng",
+        "period_start": "1960",
+        "period_end": "1969",
+        "source": "https://media.people.com.cn/n1/2016/1024/c40606-28800954.html",
+        "note": "人民网2016正文称强调阶级和阶级斗争的流行表达从上世纪60年代开始蔓延。",
+        "review_basis": "source-text-reviewed"
+      }
+    ]
+  },
+  {
+    "word": "阿凡达",
+    "pinyin": "a'fan'da",
+    "evidence": [
+      {
+        "word": "阿凡达",
+        "pinyin": "a fan da",
+        "period_start": "2010",
+        "period_end": "2010",
+        "source": "https://www.moe.gov.cn/jyb_xwfb/gzdt_gzdt/moe_1485/201012/t20101231_113648.html",
+        "note": "教育部发布的2010年度娱乐流行语榜单收录此词。 用户2026-10-23明确批准纳入；本轮未成功读取原来源正文，不作为独立来源核验通过。",
+        "review_basis": "user-approved-source-not-independently-verified"
+      }
+    ]
+  },
+  {
+    "word": "雄安新区",
+    "pinyin": "xiong'an'xin'qu",
+    "evidence": [
+      {
+        "word": "雄安新区",
+        "pinyin": "xiong an xin qu",
+        "period_start": "2017",
+        "period_end": "2017",
+        "source": "https://qspfw.moe.gov.cn/html/hotnews/20171222/11828.html",
+        "note": "教育部普法网正文列入2017年度十大流行语及新词语；年份是上榜年，不是首见年。",
+        "review_basis": "source-text-reviewed"
+      }
+    ]
+  },
+  {
+    "word": "雪糕刺客",
+    "pinyin": "xue'gao'ci'ke",
+    "evidence": [
+      {
+        "word": "雪糕刺客",
+        "pinyin": "xue gao ci ke",
+        "period_start": "2022",
+        "period_end": "2022",
+        "source": "Existing 2022-2026 curated list; year sources in SOURCES.md",
+        "note": "Year is the source/reporting period, not first occurrence."
+      }
+    ]
+  },
+  {
+    "word": "雾霾",
+    "pinyin": "wu'mai",
+    "evidence": [
+      {
+        "word": "雾霾",
+        "pinyin": "wu mai",
+        "period_start": "2013",
+        "period_end": "2013",
+        "source": "https://hudong.moe.gov.cn/s78/A19/A19_ztzl/ztzl_yywzfw/shenghuoxz/201312/t20131223_161120.html",
+        "note": "教育部2013年度盘点正文列为年度十大流行语；日期是上榜年。",
+        "review_basis": "source-text-reviewed"
+      }
+    ]
+  },
+  {
+    "word": "青年夜校",
+    "pinyin": "qing'nian'ye'xiao",
+    "evidence": [
+      {
+        "word": "青年夜校",
+        "pinyin": "qing nian ye xiao",
+        "period_start": "2024",
+        "period_end": "2024",
+        "source": "Existing 2022-2026 curated list; year sources in SOURCES.md",
+        "note": "Year is the source/reporting period, not first occurrence."
+      }
+    ]
+  },
+  {
+    "word": "顶",
+    "pinyin": "ding",
+    "evidence": [
+      {
+        "word": "顶",
+        "pinyin": "ding",
+        "period_start": "2004",
+        "period_end": "2004",
+        "source": "https://www.moe.gov.cn/jyb_xwfb/xw_ft/moe_46/moe_1055/tnull_11019.html",
+        "note": "教育部报道列于2004年十大网络流行用语。 用户2026-10-23明确批准纳入；本轮未成功读取原来源正文，不作为独立来源核验通过。",
+        "review_basis": "user-approved-source-not-independently-verified"
+      }
+    ]
+  },
+  {
+    "word": "高富帅",
+    "pinyin": "gao'fu'shuai",
+    "evidence": [
+      {
+        "word": "高富帅",
+        "pinyin": "gao fu shuai",
+        "period_start": "2012",
+        "period_end": "2012",
+        "source": "https://media.people.com.cn/n/2013/0131/c355649-20390645.html",
+        "note": "人民网文章按年份将其列为2012年上半年网络热词；年份是归类范围，不表示首见年。",
+        "review_basis": "source-text-reviewed"
+      }
+    ]
+  },
+  {
+    "word": "高铁",
+    "pinyin": "gao'tie",
+    "evidence": [
+      {
+        "word": "高铁",
+        "pinyin": "gao tie",
+        "period_start": "2010",
+        "period_end": "2010",
+        "source": "https://www.moe.gov.cn/jyb_xwfb/gzdt_gzdt/moe_1485/201012/t20101231_113648.html",
+        "note": "教育部发布的2010年度媒体流行语榜单收录此词。 用户2026-10-23明确批准纳入；本轮未成功读取原来源正文，不作为独立来源核验通过。",
+        "review_basis": "user-approved-source-not-independently-verified"
+      }
+    ]
+  },
+  {
+    "word": "黑神话悟空",
+    "pinyin": "hei'shen'hua'wu'kong",
+    "evidence": [
+      {
+        "word": "黑神话悟空",
+        "pinyin": "hei shen hua wu kong",
+        "period_start": "2024",
+        "period_end": "2024",
+        "source": "Existing 2022-2026 curated list; year sources in SOURCES.md",
+        "note": "Year is the source/reporting period, not first occurrence."
+      }
+    ]
+  },
+  {
+    "word": "鼓足干劲",
+    "pinyin": "gu'zu'gan'jin",
+    "evidence": [
+      {
+        "word": "鼓足干劲",
+        "pinyin": "gu zu gan jin",
+        "period_start": "1950",
+        "period_end": "1959",
+        "source": "https://ent.people.com.cn/n1/2023/0326/c1012-32651244.html",
+        "note": "人民网正文明确列为20世纪50年代鲜活词语/表达；不是逐词首见日期。",
+        "review_basis": "source-text-reviewed"
+      }
+    ]
+  }
+]

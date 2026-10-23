@@ -111,17 +111,20 @@
     {
       "id": "hotwords-cn",
       "name": "热词",
-      "source": "hotwords.tsv",
-      "entries": 56,
-      "sourceSha256": "bf5025a7317b56d36efa201c83d6691569801fcb9e015bde317e956c571554d6",
-      "nativeScore": 0,
-      "defaultEnabled": false,
-      "scope": "Existing stock vocabulary; hotwords cover selected 2022-2026 terms only. Cross-pack overlaps preserved for independent activation.",
-      "filename": "hotwords-v1.zip",
-      "bytes": 20185,
-      "sha256": "90e3400565f390b9feb2959482a96cf8bd6a701ee06e37d2c6d9aea1d4e170f0",
+      "filename": "hotwords-v2.zip",
+      "bytes": 36872,
+      "sha256": "68558deaa073a83d4538004bd516264260335101c59f05d235bc30ed0adb01aa",
       "license": "GPL-3.0",
-      "url": "https://github.com/lib123sis-lab/penguin-lexicon-resources/releases/download/lexicons-v1/hotwords-v1.zip"
+      "url": "https://github.com/lib123sis-lab/penguin-lexicon-resources/releases/download/lexicons-v1/hotwords-v2.zip",
+      "dictionaries": [
+        {
+          "id": "hotwords-cn",
+          "entries": 141,
+          "bytes": 3962,
+          "sha256": "abb17c76633de7033ea7bae9cec8fdd9679e7e77ff0b59fac43ba28e3b3df6ec"
+        }
+      ],
+      "scope": "Selected historical/contemporary terms, not annual complete coverage; 12 historical entries user-approved without independent source-text verification."
     }
   ]
 }
