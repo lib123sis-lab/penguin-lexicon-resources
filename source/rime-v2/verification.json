@@ -1,0 +1,24 @@
+{
+  "nativeRoundtrip": true,
+  "entries": 543117,
+  "dailyCases": 197,
+  "affectedCombinations": [
+    {
+      "extras": [],
+      "changes": [],
+      "regressions": []
+    },
+    {
+      "extras": [
+        "music-cn",
+        "professional-cn",
+        "hotwords-cn"
+      ],
+      "changes": [],
+      "regressions": []
+    }
+  ],
+  "unsupportedTrialExitCode": 0,
+  "unsupportedTrialRoundtrip": "",
+  "deviceExecuted": false
+}

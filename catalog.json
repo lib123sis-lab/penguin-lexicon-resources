@@ -21,20 +21,21 @@
     },
     {
       "id": "rime",
-      "name": "雾凇拼音（历史补充包）",
-      "filename": "rime-ice-v1.zip",
-      "bytes": 20132317,
-      "sha256": "747112a3474ebca376f10d7a959ebd87aa07266868d92678e74ee420e8dd0038",
+      "name": "雾凇拼音（固定版）",
+      "filename": "rime-ice-v2.zip",
+      "bytes": 25468421,
+      "sha256": "56a1a54bfcf26d282f4ad246a5647da59ad7d78b749d2834067ffe8dcd51a797",
+      "url": "https://github.com/lib123sis-lab/penguin-lexicon-resources/releases/download/lexicons-v1/rime-ice-v2.zip",
       "license": "GPL-3.0",
-      "url": "https://github.com/lib123sis-lab/penguin-lexicon-resources/releases/download/lexicons-v1/rime-ice-v1.zip",
       "dictionaries": [
         {
           "id": "modern-cn",
-          "entries": 543159,
-          "bytes": 11576762,
-          "sha256": "2a93e7f2269af859f7c3515f399f6de1482ee931a965fec65ec625df91732272"
+          "entries": 543117,
+          "bytes": 10627536,
+          "sha256": "2c556621d824a9dedb0c961064b78cfcfdef1631519dd4eb5c5496691f4052f7"
         }
-      ]
+      ],
+      "scope": "Pinned base source, existing native weights retained; one unsupported cei syllable entry explicitly excluded. Cross-pack runtime dedup not claimed."
     },
     {
       "id": "games",
