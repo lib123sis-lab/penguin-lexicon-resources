@@ -1,0 +1,27 @@
+{
+  "checkedOn": "2026-10-23",
+  "method": "Roco names from fixed Wiki catalogue; ordinary Mandarin readings reviewed in two agent passes, uncertain readings and a non-visible candidate excluded. Original PNS selection retained. No official audio or current live-game availability claim. No corpus-frequency fabrication, artwork or dialogue.",
+  "license": "Roco expanded selection derived from Wiki data: CC BY-SA 4.0 with attribution; original PNS selection/annotations: CC0-1.0. Game names and trademarks remain with their owners; no artwork/dialogue.",
+  "sources": {
+    "roco-launch": "https://www.taptap.cn/moment/785995764059867124",
+    "roco-cat": "https://www.taptap.cn/moment/830766040056074010",
+    "roco-eagle": "https://www.taptap.cn/moment/816002697500036737",
+    "roco-test": "https://www.taptap.cn/moment/654269964571643021",
+    "pns-home": "https://pns.kurogames.com/",
+    "pns-update": "https://pns.kurogames.com/news/5467",
+    "roco-wiki-catalog-20260924": "https://github.com/JayeGT002/rocom-wiki-data/blob/6ab264cb98eec1dd2dde0d7c6dfa200733a98d63/data/wiki_modules/Pets/data/Catalog.lua"
+  },
+  "scope": "Roco Kingdom World and Punishing Gray Raven only; Roco classic-game-only names are not inferred. Notices attest names, not current event availability.",
+  "attribution": {
+    "roco-world": {
+      "authors": "洛克王国世界 WIKI contributors; JayeGT002 mirror; Little Penguin dictionary reviewers",
+      "license": "CC-BY-SA-4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "modifications": "Extracted names; deduplicated; added Mandarin readings; excluded unresolved names; compiled native dictionary",
+      "sourceRevision": "6ab264cb98eec1dd2dde0d7c6dfa200733a98d63"
+    },
+    "pns": {
+      "license": "CC0-1.0 original selection and annotations; no change in this revision"
+    }
+  }
+}
