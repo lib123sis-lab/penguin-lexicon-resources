@@ -1,0 +1,259 @@
+{
+  "nativeRoundtrip": true,
+  "entries": 153142,
+  "corrections": 20,
+  "nativeScore": -3,
+  "dailyCases": 197,
+  "dailyChanges": [],
+  "dailyRegressions": [],
+  "correctedTermsBeforeTop20": 20,
+  "correctedTermsAfterTop20": 20,
+  "terms": [
+    {
+      "input": "minglinghang",
+      "target": "命令行",
+      "before": 1,
+      "after": 1
+    },
+    {
+      "input": "chongdingxiang",
+      "target": "重定向",
+      "before": 1,
+      "after": 1
+    },
+    {
+      "input": "chongzhi",
+      "target": "重置",
+      "before": 2,
+      "after": 2
+    },
+    {
+      "input": "chongmingming",
+      "target": "重命名",
+      "before": 1,
+      "after": 1
+    },
+    {
+      "input": "chongshi",
+      "target": "重试",
+      "before": 4,
+      "after": 4
+    },
+    {
+      "input": "shuzuchangdu",
+      "target": "数组长度",
+      "before": 1,
+      "after": 1
+    },
+    {
+      "input": "minglinghangcanshu",
+      "target": "命令行参数",
+      "before": 1,
+      "after": 1
+    },
+    {
+      "input": "chongzuo",
+      "target": "重做",
+      "before": 1,
+      "after": 1
+    },
+    {
+      "input": "chonghui",
+      "target": "重绘",
+      "before": 4,
+      "after": 4
+    },
+    {
+      "input": "tiaoyou",
+      "target": "调优",
+      "before": 1,
+      "after": 1
+    },
+    {
+      "input": "minglinghanggongju",
+      "target": "命令行工具",
+      "before": 1,
+      "after": 1
+    },
+    {
+      "input": "changlianjie",
+      "target": "长连接",
+      "before": 1,
+      "after": 1
+    },
+    {
+      "input": "duochongjicheng",
+      "target": "多重继承",
+      "before": 1,
+      "after": 1
+    },
+    {
+      "input": "chongdingyi",
+      "target": "重定义",
+      "before": 1,
+      "after": 1
+    },
+    {
+      "input": "chongfa",
+      "target": "重发",
+      "before": 1,
+      "after": 1
+    },
+    {
+      "input": "tanchuduihuakuang",
+      "target": "弹出对话框",
+      "before": 1,
+      "after": 1
+    },
+    {
+      "input": "chongchuan",
+      "target": "重传",
+      "before": 1,
+      "after": 1
+    },
+    {
+      "input": "tanchuchuangkou",
+      "target": "弹出窗口",
+      "before": 1,
+      "after": 1
+    },
+    {
+      "input": "tanchucaidan",
+      "target": "弹出菜单",
+      "before": 1,
+      "after": 1
+    },
+    {
+      "input": "baolijiefa",
+      "target": "暴力解法",
+      "before": 2,
+      "after": 2
+    }
+  ],
+  "deviceExecuted": false,
+  "incorrectNativeKeysRemoved": 20,
+  "incorrectReadingsBeforeTop20": 17,
+  "incorrectReadingsAfterTop20": 13,
+  "incorrectReadings": [
+    {
+      "input": "minglingxing",
+      "target": "命令行",
+      "before": 1,
+      "after": 1
+    },
+    {
+      "input": "zhongdingxiang",
+      "target": "重定向",
+      "before": 1,
+      "after": 1
+    },
+    {
+      "input": "zhongzhi",
+      "target": "重置",
+      "before": null,
+      "after": null
+    },
+    {
+      "input": "zhongmingming",
+      "target": "重命名",
+      "before": 1,
+      "after": 1
+    },
+    {
+      "input": "zhongshi",
+      "target": "重试",
+      "before": null,
+      "after": null
+    },
+    {
+      "input": "shuzuzhangdu",
+      "target": "数组长度",
+      "before": 1,
+      "after": 2
+    },
+    {
+      "input": "minglingxingcanshu",
+      "target": "命令行参数",
+      "before": 1,
+      "after": 1
+    },
+    {
+      "input": "zhongzuo",
+      "target": "重做",
+      "before": 7,
+      "after": 7
+    },
+    {
+      "input": "zhonghui",
+      "target": "重绘",
+      "before": 11,
+      "after": 11
+    },
+    {
+      "input": "diaoyou",
+      "target": "调优",
+      "before": null,
+      "after": null
+    },
+    {
+      "input": "minglingxinggongju",
+      "target": "命令行工具",
+      "before": 1,
+      "after": 2
+    },
+    {
+      "input": "zhanglianjie",
+      "target": "长连接",
+      "before": 2,
+      "after": 2
+    },
+    {
+      "input": "duozhongjicheng",
+      "target": "多重继承",
+      "before": 1,
+      "after": 1
+    },
+    {
+      "input": "zhongdingyi",
+      "target": "重定义",
+      "before": 2,
+      "after": 2
+    },
+    {
+      "input": "zhongfa",
+      "target": "重发",
+      "before": 6,
+      "after": 6
+    },
+    {
+      "input": "danchuduihuakuang",
+      "target": "弹出对话框",
+      "before": 2,
+      "after": null
+    },
+    {
+      "input": "zhongchuan",
+      "target": "重传",
+      "before": 8,
+      "after": 8
+    },
+    {
+      "input": "danchuchuangkou",
+      "target": "弹出窗口",
+      "before": 1,
+      "after": null
+    },
+    {
+      "input": "danchucaidan",
+      "target": "弹出菜单",
+      "before": 5,
+      "after": null
+    },
+    {
+      "input": "baolixiefa",
+      "target": "暴力解法",
+      "before": 8,
+      "after": null
+    }
+  ]
+}

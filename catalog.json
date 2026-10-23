@@ -68,16 +68,22 @@
     {
       "id": "thuocl",
       "name": "THUOCL 中文试用包",
-      "filename": "thuocl-preview-v1.zip",
-      "bytes": 10651903,
-      "sha256": "d6016ad2ca595f8dd1bf11b7edcd8bf3c81ffe2ef1ec8deabb6a3c8a8d6d5c96",
-      "license": "MIT",
-      "upstreamRevision": "a30ce79d895d01ab5132a5c74c29703ff7efb4cc",
-      "entries": 153142,
+      "filename": "thuocl-preview-v2.zip",
+      "bytes": 10699190,
+      "sha256": "385670dfb58e5840f3061db49b082191379e63e03689c150002d612d614343b2",
+      "license": "MIT (THUOCL source); GPL-3.0 (selected reading annotations)",
+      "url": "https://github.com/lib123sis-lab/penguin-lexicon-resources/releases/download/lexicons-v1/thuocl-preview-v2.zip",
+      "dictionaries": [
+        {
+          "id": "thuocl-cn",
+          "entries": 153142,
+          "bytes": 3137060,
+          "sha256": "7f5ad24a3c93415f27935f8abbeb11d4383c0b418d284b2d1bb22861d0a64600"
+        }
+      ],
+      "contextReadingCorrections": 20,
       "unsupportedRows": 3147,
-      "pronunciation": "machine-inferred",
-      "defaultEnabled": false,
-      "url": "https://github.com/lib123sis-lab/penguin-lexicon-resources/releases/download/lexicons-v1/thuocl-preview-v1.zip"
+      "scope": "Chinese preview with 20 context-reviewed corrections; most readings machine-inferred; mixed input not complete."
     },
     {
       "id": "music-cn",
