@@ -32,7 +32,10 @@
           "id": "modern-cn",
           "entries": 543117,
           "bytes": 10627536,
-          "sha256": "2c556621d824a9dedb0c961064b78cfcfdef1631519dd4eb5c5496691f4052f7"
+          "sha256": "2c556621d824a9dedb0c961064b78cfcfdef1631519dd4eb5c5496691f4052f7",
+          "previousSha256": [
+            "2a93e7f2269af859f7c3515f399f6de1482ee931a965fec65ec625df91732272"
+          ]
         }
       ],
       "scope": "Pinned base source, existing native weights retained; one unsupported cei syllable entry explicitly excluded. Cross-pack runtime dedup not claimed."
@@ -78,7 +81,10 @@
           "id": "thuocl-cn",
           "entries": 153142,
           "bytes": 3137060,
-          "sha256": "7f5ad24a3c93415f27935f8abbeb11d4383c0b418d284b2d1bb22861d0a64600"
+          "sha256": "7f5ad24a3c93415f27935f8abbeb11d4383c0b418d284b2d1bb22861d0a64600",
+          "previousSha256": [
+            "ddeee97e9e3d001c2e7bff9c2a9e1fb96a83c996599f6b88580d296ea9642e31"
+          ]
         }
       ],
       "contextReadingCorrections": 20,
