@@ -77,6 +77,51 @@
       "pronunciation": "machine-inferred",
       "defaultEnabled": false,
       "url": "https://github.com/lib123sis-lab/penguin-lexicon-resources/releases/download/lexicons-v1/thuocl-preview-v1.zip"
+    },
+    {
+      "id": "music-cn",
+      "name": "音乐词库",
+      "source": "music-vocabulary.tsv",
+      "entries": 5466,
+      "sourceSha256": "a97678b36e7bab6437dd8a9f7944eafb81f8a5557cdf046ebd318a5bec56417d",
+      "nativeScore": 0,
+      "defaultEnabled": false,
+      "scope": "Existing stock vocabulary; hotwords cover selected 2022-2026 terms only. Cross-pack overlaps preserved for independent activation.",
+      "filename": "music-v1.zip",
+      "bytes": 422525,
+      "sha256": "aefc2d7a51b28234780fcb90d185215f7f6a011691c35e5f6695a5f46eb2156d",
+      "license": "GPL-3.0; MusicBrainz core metadata CC0",
+      "url": "https://github.com/lib123sis-lab/penguin-lexicon-resources/releases/download/lexicons-v1/music-v1.zip"
+    },
+    {
+      "id": "professional-cn",
+      "name": "个人专业词库（公共主题词表）",
+      "source": "personal-vocabulary.tsv",
+      "entries": 1004,
+      "sourceSha256": "5615b15fbe448fa7da8a803cf64a91e2c689f58e53eedf4011a8d329ac9923e3",
+      "nativeScore": 0,
+      "defaultEnabled": false,
+      "scope": "Existing stock vocabulary; hotwords cover selected 2022-2026 terms only. Cross-pack overlaps preserved for independent activation.",
+      "filename": "professional-v1.zip",
+      "bytes": 67715,
+      "sha256": "fbbad3b0cb69bb80f4fc0a3e7cc07262ca2f3514ac2c6e961f23cf07257a3d5d",
+      "license": "GPL-3.0",
+      "url": "https://github.com/lib123sis-lab/penguin-lexicon-resources/releases/download/lexicons-v1/professional-v1.zip"
+    },
+    {
+      "id": "hotwords-cn",
+      "name": "热词",
+      "source": "hotwords.tsv",
+      "entries": 56,
+      "sourceSha256": "bf5025a7317b56d36efa201c83d6691569801fcb9e015bde317e956c571554d6",
+      "nativeScore": 0,
+      "defaultEnabled": false,
+      "scope": "Existing stock vocabulary; hotwords cover selected 2022-2026 terms only. Cross-pack overlaps preserved for independent activation.",
+      "filename": "hotwords-v1.zip",
+      "bytes": 20185,
+      "sha256": "90e3400565f390b9feb2959482a96cf8bd6a701ee06e37d2c6d9aea1d4e170f0",
+      "license": "GPL-3.0",
+      "url": "https://github.com/lib123sis-lab/penguin-lexicon-resources/releases/download/lexicons-v1/hotwords-v1.zip"
     }
   ]
 }
