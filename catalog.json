@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "baseChineseDictionaryIncluded": false,
+  "resources": [
+    {
+      "id": "daily",
+      "name": "日常词库",
+      "filename": "daily-v1.zip",
+      "bytes": 30827,
+      "sha256": "50f306dc9ce95e54e0b3824cf225520b34aff63530eb3a45de7796ba4e621091",
+      "license": "GPL-3.0",
+      "url": "https://github.com/lib123sis-lab/penguin-lexicon-resources/releases/download/lexicons-v1/daily-v1.zip",
+      "dictionaries": [
+        {
+          "id": "daily-cn",
+          "entries": 529,
+          "bytes": 11720,
+          "sha256": "5ac865e40246bbe134bb151a7a902c49e9d5e3685d601365dae6ececd004c41b"
+        }
+      ]
+    },
+    {
+      "id": "rime",
+      "name": "雾凇拼音（历史补充包）",
+      "filename": "rime-ice-v1.zip",
+      "bytes": 20132317,
+      "sha256": "747112a3474ebca376f10d7a959ebd87aa07266868d92678e74ee420e8dd0038",
+      "license": "GPL-3.0",
+      "url": "https://github.com/lib123sis-lab/penguin-lexicon-resources/releases/download/lexicons-v1/rime-ice-v1.zip",
+      "dictionaries": [
+        {
+          "id": "modern-cn",
+          "entries": 543159,
+          "bytes": 11576762,
+          "sha256": "2a93e7f2269af859f7c3515f399f6de1482ee931a965fec65ec625df91732272"
+        }
+      ]
+    },
+    {
+      "id": "games",
+      "name": "统一游戏词库",
+      "filename": "unified-games-v1.zip",
+      "bytes": 4017,
+      "sha256": "65ebc5646d657acdb3dfc400cb78e7dfaf4d3bece864a84b0e8e3647206c3d3e",
+      "license": "CC0-1.0 original selection/annotations",
+      "url": "https://github.com/lib123sis-lab/penguin-lexicon-resources/releases/download/lexicons-v1/unified-games-v1.zip",
+      "entries": 68
+    }
+  ]
+}

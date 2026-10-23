@@ -1,0 +1,14 @@
+{
+  "checkedOn": "2026-10-14",
+  "method": "Manually selected proper names and explicitly labelled punctuation aliases; manually reviewed Mandarin spelling. No scraped dialogue, corpus frequencies or game artwork.",
+  "license": "CC0-1.0 for this project's original selection, phonetic annotations and database arrangement; game names and trademarks remain with their owners. No official partnership claimed.",
+  "sources": {
+    "roco-launch": "https://www.taptap.cn/moment/785995764059867124",
+    "roco-cat": "https://www.taptap.cn/moment/830766040056074010",
+    "roco-eagle": "https://www.taptap.cn/moment/816002697500036737",
+    "roco-test": "https://www.taptap.cn/moment/654269964571643021",
+    "pns-home": "https://pns.kurogames.com/",
+    "pns-update": "https://pns.kurogames.com/news/5467"
+  },
+  "scope": "Roco Kingdom World and Punishing Gray Raven only; Roco classic-game-only names are not inferred. Notices attest names, not current event availability."
+}
