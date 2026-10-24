@@ -15,7 +15,7 @@
 |音乐词库|[music-v1.zip](https://github.com/lib123sis-lab/penguin-lexicon-resources/releases/download/lexicons-v1/music-v1.zip)|5466个词语—拼音组合|
 |个人专业词库（公共主题词表）|[professional-v1.zip](https://github.com/lib123sis-lab/penguin-lexicon-resources/releases/download/lexicons-v1/professional-v1.zip)|公共主题词表1004条，不含个人学习数据|
 |热词|[hotwords-v2.zip](https://github.com/lib123sis-lab/penguin-lexicon-resources/releases/download/lexicons-v1/hotwords-v2.zip)|141条历史与现代精选；不是逐年完整百年全集|
-|搜狗细胞词库（节日与财务首批）|[sogou-v1.zip](https://github.com/lib123sis-lab/penguin-lexicon-resources/releases/download/lexicons-v1/sogou-v1.zip)|官方节日44条、财务418条首批SCEL；不是全站镜像|
+|搜狗精选词库（成语与地名扩展）|[sogou-v2.zip](https://github.com/lib123sis-lab/penguin-lexicon-resources/releases/download/lexicons-v1/sogou-v2.zip)|节日44、财务418、成语俗语与地名49379，共49841词语—拼音组合；不是全站镜像|
 
 ## 许可和验证边界
 

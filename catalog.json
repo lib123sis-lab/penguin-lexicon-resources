@@ -137,11 +137,11 @@
     },
     {
       "id": "sogou",
-      "name": "搜狗细胞词库（节日与财务首批）",
-      "filename": "sogou-v1.zip",
-      "bytes": 31518,
-      "sha256": "f99f9a95acae02130e0fdda07967e4580183b2d5cf57d50bf581968f66ccc8dc",
-      "url": "https://github.com/lib123sis-lab/penguin-lexicon-resources/releases/download/lexicons-v1/sogou-v1.zip",
+      "name": "搜狗精选词库（成语与地名扩展）",
+      "filename": "sogou-v2.zip",
+      "bytes": 2983614,
+      "sha256": "94b6db142b5f302a9026dd94cf0888c52a445b8070ff9cb695c56565b5ffe0e2",
+      "url": "https://github.com/lib123sis-lab/penguin-lexicon-resources/releases/download/lexicons-v1/sogou-v2.zip",
       "license": "用户于2026-10-24确认已取得搜狗细胞词库分发许可；未附许可文件",
       "kind": "zip",
       "dictionaries": [
@@ -156,6 +156,12 @@
           "entries": 418,
           "bytes": 10566,
           "sha256": "3208a54980f634b872cdd5c2203025b1f9622c78a1c557f8e544f1f83ed98ef4"
+        },
+        {
+          "id": "sogou-extended",
+          "entries": 49379,
+          "bytes": 983971,
+          "sha256": "81feff8ed206e5a8abd2e478209e0aac2848e43d080c67e6db93f0e00c1786c9"
         }
       ]
     },
