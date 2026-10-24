@@ -1,0 +1,16 @@
+{
+  "upstream": "https://github.com/thunlp/THUOCL",
+  "revision": "a30ce79d895d01ab5132a5c74c29703ff7efb4cc",
+  "categories": 11,
+  "sourceRows": 157172,
+  "nativeEntries": 153175,
+  "duplicateKeys": 883,
+  "unsupportedRows": 3114,
+  "invalidDFRows": 4,
+  "humanPronunciationReviewed": false,
+  "contextReadingCorrections": 20,
+  "numericReadingEntries": 33,
+  "nativeScore": -3,
+  "defaultEnabled": false,
+  "nativeRankingVerified": false
+}
