@@ -1,65 +1,26 @@
 # 小企鹅输入法词库资源
 
-此仓库仅分发可选中文词库、对应数据源和许可证，不包含输入法应用源码、角色素材、用户学习记录、私人词库或密钥。Fcitx5/libime基础中文词库仍随输入法内置，不在此发布。
+仅分发可选中文词库、相应来源与许可；不含输入法私有源码、角色、密钥或个人数据。基础Fcitx5/libime中文词库仍内置，不在这里发布。
 
-## 下载
+## 下载与导入
 
-在 [词库下载页](https://github.com/lib123sis-lab/penguin-lexicon-resources/releases/tag/lexicons-v1) 选择压缩包。支持ZIP导入的输入法版本中，打开“系统设置 → 词库管理”，进入对应分类下载或选择导入。旧版仅支持单文件导入时，可先解压后导入根目录的 `.dict` 文件。
+[统一词库下载页](https://github.com/lib123sis-lab/penguin-lexicon-resources/releases/tag/lexicons-v1)每种词库只保留一个当前完整包，无需下载旧版。建议在合适、稳定的网络环境里下载。输入法设置→词库与语言资源→相应分类，下载后导入；当前版本首次安装启用，已有词库更新保留启停和个人编辑。
 
-|包|内容|说明|
+|词库|当前完整下载|真实范围|
 |---|---|---|
-|daily-v1.zip|日常词库，529条|沿用现有日常表达与原生分值，含对应文本源|
-|rime-ice-v1.zip|雾凇拼音历史补充包，543159条|历史固定版本转换并补充的现有词库，不冒称上游最新完整版本|
-|unified-games-v1.zip|洛克王国：世界33条、战双帕弥什35条|当前已验证的原生词库；尚未达到每款500条目标|
+|日常词库|[daily-v1.zip](https://github.com/lib123sis-lab/penguin-lexicon-resources/releases/download/lexicons-v1/daily-v1.zip)|529条|
+|雾凇拼音（固定版）|[rime-ice-v2.zip](https://github.com/lib123sis-lab/penguin-lexicon-resources/releases/download/lexicons-v1/rime-ice-v2.zip)|固定版543117条；1个不支持音节随包说明|
+|统一游戏词库 v3|[unified-games-v3.zip](https://github.com/lib123sis-lab/penguin-lexicon-resources/releases/download/lexicons-v1/unified-games-v3.zip)|洛克王国：世界506条、战双帕弥什625条|
+|THUOCL 中文试用包|[thuocl-preview-v3.zip](https://github.com/lib123sis-lab/penguin-lexicon-resources/releases/download/lexicons-v1/thuocl-preview-v3.zip)|153175条中文试用；多数读音机器推断，3114项混合/特殊原文未编码|
+|音乐词库|[music-v1.zip](https://github.com/lib123sis-lab/penguin-lexicon-resources/releases/download/lexicons-v1/music-v1.zip)|5466个词语—拼音组合|
+|个人专业词库（公共主题词表）|[professional-v1.zip](https://github.com/lib123sis-lab/penguin-lexicon-resources/releases/download/lexicons-v1/professional-v1.zip)|公共主题词表1004条，不含个人学习数据|
+|热词|[hotwords-v2.zip](https://github.com/lib123sis-lab/penguin-lexicon-resources/releases/download/lexicons-v1/hotwords-v2.zip)|141条历史与现代精选；不是逐年完整百年全集|
+|搜狗细胞词库（节日与财务首批）|[sogou-v1.zip](https://github.com/lib123sis-lab/penguin-lexicon-resources/releases/download/lexicons-v1/sogou-v1.zip)|官方节日44条、财务418条首批SCEL；不是全站镜像|
 
-日常/雾凇包按GPL-3.0分发，许可及可重建词条源随包提供。游戏包的原创选词、拼音标注与编排按CC0-1.0提供，见source/games；游戏名称、商标仍属相应权利人，不含美术、台词或剧情。
+## 许可和验证边界
 
-## 其它词库
+各ZIP附源词表、原生输入、来源/许可和验证说明。THUOCL固定源thunlp/THUOCL遵守MIT，精选读音标注按包内GPL-3.0说明；雾凇遵守iDvel/rime-ice GPL-3.0。搜狗首批在用户于2026-10-24明确确认取得分发许可后发布，保留原始SCEL与官方来源说明。其余包逐项说明见包内文件及source目录；不改变相应商标和游戏素材权利。
 
-维基百科、维基文库、维基词典使用公开的 [fcitx5-pinyin-zhwiki 0.3.0资源](https://github.com/felixonmars/fcitx5-pinyin-zhwiki/releases/tag/0.3.0)，数据遵守CC-BY-SA-4.0及其署名要求；压缩包整合继续进行。音乐、个人专业、近百年热词原生导入包正在准备，未发布的包不算已支持。
+维基百科、维基文库、维基词典在输入法维基词库页分别提供，来自[fcitx5-pinyin-zhwiki 0.3.0](https://github.com/felixonmars/fcitx5-pinyin-zhwiki/releases/tag/0.3.0)，遵守CC-BY-SA-4.0署名要求。
 
-搜狗细胞词库可从[搜狗官网](https://pinyin.sogou.com/dict/)下载后导入`.scel`。本仓库没有取得可证明的商业词库再分发许可，因此不托管未经许可的搜狗词库副本。
-
-THUOCL来源为[清华开放中文词库](https://github.com/thunlp/THUOCL)，其DF文档频次不能直接当作输入法词频；原生转换和读音核对结果会另行说明。词库只是扩展拼音候选，不等于语音模型的热词适配。
-
-## THUOCL 中文试用包
-
-`thuocl-preview-v1.zip` 为固定上游 a30ce79d895d01ab5132a5c74c29703ff7efb4cc 的11分类中文转换，153142个去重词语—拼音组合，约10.7MB；拼音由pypinyin 0.55.0推断，未逐词人工终审。3147条英文/中英混合等源条目尚未接入，不能称THUOCL全量支持。
-
-包内保留11类原文件、原DF、MIT许可、对应原生输入、逐词来源和不支持清单。原DF不是输入法词频；采用独立补充分值-3，不改基础模型。真实libime全文回转153142条一致；197组日常回归无名次退化，110个分类样本104项进入前20。这些是主机结果，不是设备验收。按需导入，允许在支持词条编辑的应用版本中查看和修正；不默认安装。
-
-## 统一游戏词库 v2
-
-`unified-games-v2.zip`：洛克王国：世界506条（忽略标点别名505个名称）、战双帕弥什35条；战双仍未达到500条目标。洛克采用固定Wiki来源、两轮代理普通话读音复核和真实libime全文回转，未定名称及无法产生候选的“石石”未计入。不是官方配音或最新可获取宠物确认。自然全拼491/506在前20，其余15项通过展开候选/正确音节分界可见；简称74/506在前20，仍需改善。197日常与原122游戏样本无名次退化，均为主机结论。
-
-洛克扩充派生资料按CC BY-SA 4.0，署名为洛克王国世界WIKI贡献者、JayeGT002镜像整理及本项目词库审校者；改动为抽取名称、去重、注音与编译。战双原选择/注音沿用CC0-1.0。来源、原生输入及许可随包，另见source/games-v2。v1资源和对应source/games保留；v2需要支持元数据与已知旧版更新的应用，尚未随本轮发布新APK。
-
-
-## 按需词库补充（2026-10-23）
-
-音乐5466条、公共专业1004条、热词56条已提供独立ZIP，不随APK内置。专业包是项目公共主题词表，不含用户个人学习记录。热词仍为2022—2026精选，近百年扩展尚未完成。各包保留独立启用所需词条，不能称跨包原生去重全部完成。ZIP包含对应源词表、原生输入、许可与主机验证记录；旧版“正在准备”的描述以本节为准。
-
-
-## 统一游戏词库 v3
-
-洛克506条（去标点别名505名称）、战双625条（去标点别名618名称），均已完成语言复核及真实原生全文回转。197日常与既有1045游戏输入无名次退化。简称仍可能需补全拼音/展开候选；不称所有简称首选。战双扩充为用户授权词表，详细来源映射依用户要求仅本地保留，无游戏美术或私人学习数据。旧版ZIP保留，使用与应用清单匹配的版本。
-
-
-## 热词 v2（2026-10-23）
-
-旧56条包升级为141条历史与现代精选：历史85条中73条有本轮可读来源正文，12条经用户批准纳入且明确未独立核验正文。时期保留来源宽范围，不表示首见年，不称逐年完整百年收录。真实libime141条回转一致；197日常输入四种受影响组合无名次变化，140条全拼前20。旧v1保留；已导入旧包需保留个人版本后手动替换公共热词包。没有新APK或设备验收。
-
-
-## 雾凇固定版 v2
-
-仅使用声明的固定版基础词表，原生543117条，移除旧包混入的42个其它补充条目；原有解码权重保留。上游543118条中1条cei音节当前引擎不支持，随包明确列出。完整原始源表、转换输入和GPL许可随ZIP公开。真实全文回转通过，197日常输入两组合对比v1无名次变化；不称所有词库运行去重或完整引擎音节支持完成。旧包保留，已有普通导入需手动替换。
-
-
-## THUOCL 中文试用包 v2
-
-153142条原生词，修正20处常用IT上下文注音；来源、理由和注音状态随包保留，其余仍为机器推断。原DF与补充分值-3不变，真实全文回转一致，197日常输入无名次变化，不声称首选率提升。3147混合等条目仍未编码，原始内容保留，不能称THUOCL全量混输接入。原始11类数据/MIT许可与精选注音GPL3说明随ZIP提供；旧包保留，现有普通导入需手动替换。
-
-
-## THUOCL 中文试用包 v3
-
-153175条，含33个明确中文读法的数字词。全文回转、33词原生选择和学习通过；197日常输入对比v2无名次变化。保留此前20项上下文注音，其余多数仍机器推断；3114条混合或特殊原文未编码，不称全量混输完成。按需下载，旧包保留，个人修改版本不覆盖。详见source/thuocl-v3。
+条数是实际已编译词语—拼音组合，不等同于每个简称首选、语音热词或人工逐词终审。主机libime验证不代替设备验收。旧源码和版本记录留在Git历史，当前Release不再并列过期ZIP。应用保留旧包识别信息，个人编辑不自动覆盖。

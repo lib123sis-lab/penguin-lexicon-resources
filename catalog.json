@@ -1,6 +1,5 @@
 {
-  "schema": 1,
-  "baseChineseDictionaryIncluded": false,
+  "version": 1,
   "resources": [
     {
       "id": "daily",
@@ -8,12 +7,12 @@
       "filename": "daily-v1.zip",
       "bytes": 30827,
       "sha256": "50f306dc9ce95e54e0b3824cf225520b34aff63530eb3a45de7796ba4e621091",
-      "license": "GPL-3.0",
       "url": "https://github.com/lib123sis-lab/penguin-lexicon-resources/releases/download/lexicons-v1/daily-v1.zip",
+      "license": "GPL-3.0",
+      "kind": "zip",
       "dictionaries": [
         {
           "id": "daily-cn",
-          "entries": 529,
           "bytes": 11720,
           "sha256": "5ac865e40246bbe134bb151a7a902c49e9d5e3685d601365dae6ececd004c41b"
         }
@@ -27,6 +26,7 @@
       "sha256": "56a1a54bfcf26d282f4ad246a5647da59ad7d78b749d2834067ffe8dcd51a797",
       "url": "https://github.com/lib123sis-lab/penguin-lexicon-resources/releases/download/lexicons-v1/rime-ice-v2.zip",
       "license": "GPL-3.0",
+      "kind": "zip",
       "dictionaries": [
         {
           "id": "modern-cn",
@@ -37,8 +37,7 @@
             "2a93e7f2269af859f7c3515f399f6de1482ee931a965fec65ec625df91732272"
           ]
         }
-      ],
-      "scope": "Pinned base source, existing native weights retained; one unsupported cei syllable entry explicitly excluded. Cross-pack runtime dedup not claimed."
+      ]
     },
     {
       "id": "games",
@@ -46,25 +45,19 @@
       "filename": "unified-games-v3.zip",
       "bytes": 49470,
       "sha256": "72b79ca4e1c278652ccbf5f5ef435ad88ef45e287c01dc1f0a39402da018589a",
-      "license": "Roco CC-BY-SA-4.0; original PNS CC0-1.0; expanded PNS user-authorized distribution",
       "url": "https://github.com/lib123sis-lab/penguin-lexicon-resources/releases/download/lexicons-v1/unified-games-v3.zip",
-      "entries": 1131,
-      "packs": [
+      "license": "Roco CC-BY-SA-4.0; original PNS CC0-1.0; expanded PNS user-authorized distribution",
+      "kind": "game",
+      "dictionaries": [
         {
           "id": "roco-world",
-          "name": "洛克王国：世界",
-          "entries": 506,
           "bytes": 11706,
-          "sha256": "0720b3224fa8eeb142b1b76fb2e67335197b3d00b6eaf87aac681204bcddab56",
-          "defaultEnabled": false
+          "sha256": "0720b3224fa8eeb142b1b76fb2e67335197b3d00b6eaf87aac681204bcddab56"
         },
         {
           "id": "pns",
-          "name": "战双帕弥什",
-          "entries": 625,
           "bytes": 16193,
-          "sha256": "8dba67c748cd72300afa1290ee648e4b7549a32e892bf38116f412c7e828b110",
-          "defaultEnabled": false
+          "sha256": "8dba67c748cd72300afa1290ee648e4b7549a32e892bf38116f412c7e828b110"
         }
       ]
     },
@@ -74,8 +67,9 @@
       "filename": "thuocl-preview-v3.zip",
       "bytes": 10560153,
       "sha256": "fb530862074fc0da10cf1e8a887de262e612c472dd76a231d43531ad6fa3e746",
-      "license": "MIT (THUOCL source); GPL-3.0 (selected reading annotations)",
       "url": "https://github.com/lib123sis-lab/penguin-lexicon-resources/releases/download/lexicons-v1/thuocl-preview-v3.zip",
+      "license": "MIT (THUOCL source); GPL-3.0 (selected reading annotations)",
+      "kind": "zip",
       "dictionaries": [
         {
           "id": "thuocl-cn",
@@ -87,41 +81,41 @@
             "7f5ad24a3c93415f27935f8abbeb11d4383c0b418d284b2d1bb22861d0a64600"
           ]
         }
-      ],
-      "contextReadingCorrections": 20,
-      "unsupportedRows": 3114,
-      "scope": "Chinese preview with 20 context corrections and 33 numeric readings; remaining mixed rows not encoded.",
-      "numericReadingEntries": 33
+      ]
     },
     {
       "id": "music-cn",
       "name": "音乐词库",
-      "source": "music-vocabulary.tsv",
-      "entries": 5466,
-      "sourceSha256": "a97678b36e7bab6437dd8a9f7944eafb81f8a5557cdf046ebd318a5bec56417d",
-      "nativeScore": 0,
-      "defaultEnabled": false,
-      "scope": "Existing stock vocabulary; hotwords cover selected 2022-2026 terms only. Cross-pack overlaps preserved for independent activation.",
       "filename": "music-v1.zip",
       "bytes": 422525,
       "sha256": "aefc2d7a51b28234780fcb90d185215f7f6a011691c35e5f6695a5f46eb2156d",
+      "url": "https://github.com/lib123sis-lab/penguin-lexicon-resources/releases/download/lexicons-v1/music-v1.zip",
       "license": "GPL-3.0; MusicBrainz core metadata CC0",
-      "url": "https://github.com/lib123sis-lab/penguin-lexicon-resources/releases/download/lexicons-v1/music-v1.zip"
+      "kind": "zip",
+      "dictionaries": [
+        {
+          "id": "music-cn",
+          "bytes": 118771,
+          "sha256": "d532964abd67c74f0b8650b337f0733a2ca6c76fd8e6a071ea8df786d5400f4f"
+        }
+      ]
     },
     {
       "id": "professional-cn",
       "name": "个人专业词库（公共主题词表）",
-      "source": "personal-vocabulary.tsv",
-      "entries": 1004,
-      "sourceSha256": "5615b15fbe448fa7da8a803cf64a91e2c689f58e53eedf4011a8d329ac9923e3",
-      "nativeScore": 0,
-      "defaultEnabled": false,
-      "scope": "Existing stock vocabulary; hotwords cover selected 2022-2026 terms only. Cross-pack overlaps preserved for independent activation.",
       "filename": "professional-v1.zip",
       "bytes": 67715,
       "sha256": "fbbad3b0cb69bb80f4fc0a3e7cc07262ca2f3514ac2c6e961f23cf07257a3d5d",
+      "url": "https://github.com/lib123sis-lab/penguin-lexicon-resources/releases/download/lexicons-v1/professional-v1.zip",
       "license": "GPL-3.0",
-      "url": "https://github.com/lib123sis-lab/penguin-lexicon-resources/releases/download/lexicons-v1/professional-v1.zip"
+      "kind": "zip",
+      "dictionaries": [
+        {
+          "id": "professional-cn",
+          "bytes": 23500,
+          "sha256": "e16655c7c1221828dcf793420fbb07dc0b77705ffffb27433375452e013232e1"
+        }
+      ]
     },
     {
       "id": "hotwords-cn",
@@ -129,8 +123,9 @@
       "filename": "hotwords-v2.zip",
       "bytes": 36872,
       "sha256": "68558deaa073a83d4538004bd516264260335101c59f05d235bc30ed0adb01aa",
-      "license": "GPL-3.0",
       "url": "https://github.com/lib123sis-lab/penguin-lexicon-resources/releases/download/lexicons-v1/hotwords-v2.zip",
+      "license": "GPL-3.0",
+      "kind": "zip",
       "dictionaries": [
         {
           "id": "hotwords-cn",
@@ -138,8 +133,62 @@
           "bytes": 3962,
           "sha256": "abb17c76633de7033ea7bae9cec8fdd9679e7e77ff0b59fac43ba28e3b3df6ec"
         }
-      ],
-      "scope": "Selected historical/contemporary terms, not annual complete coverage; 12 historical entries user-approved without independent source-text verification."
+      ]
+    },
+    {
+      "id": "sogou",
+      "name": "搜狗细胞词库（节日与财务首批）",
+      "filename": "sogou-v1.zip",
+      "bytes": 31518,
+      "sha256": "f99f9a95acae02130e0fdda07967e4580183b2d5cf57d50bf581968f66ccc8dc",
+      "url": "https://github.com/lib123sis-lab/penguin-lexicon-resources/releases/download/lexicons-v1/sogou-v1.zip",
+      "license": "用户于2026-10-24确认已取得搜狗细胞词库分发许可；未附许可文件",
+      "kind": "zip",
+      "dictionaries": [
+        {
+          "id": "sogou-festival",
+          "entries": 44,
+          "bytes": 1574,
+          "sha256": "f3e076b571ae2036a74012a8c0132c3a0d45d8e572f82d7eac2a6813cd77def9"
+        },
+        {
+          "id": "sogou-finance",
+          "entries": 418,
+          "bytes": 10566,
+          "sha256": "3208a54980f634b872cdd5c2203025b1f9622c78a1c557f8e544f1f83ed98ef4"
+        }
+      ]
+    },
+    {
+      "id": "zhwiki",
+      "name": "中文维基百科专名",
+      "filename": "zhwiki-20260416.dict",
+      "bytes": 32677637,
+      "sha256": "9bb6fd03f0350cc13340ec34ff59f695bdf7eb0f14db6acf13c1ebc91f89823b",
+      "url": "https://github.com/felixonmars/fcitx5-pinyin-zhwiki/releases/download/0.3.0/zhwiki-20260416.dict",
+      "license": "CC-BY-SA-4.0",
+      "kind": "wiki"
+    },
+    {
+      "id": "zhwikisource",
+      "name": "中文维基文库扩展",
+      "filename": "zhwikisource-20260416.dict",
+      "bytes": 3879503,
+      "sha256": "689575b1aaf3d0bffd79175a31b3adefdcaafe6ec7194cf342b3d396a5e53f27",
+      "url": "https://github.com/felixonmars/fcitx5-pinyin-zhwiki/releases/download/0.3.0/zhwikisource-20260416.dict",
+      "license": "CC-BY-SA-4.0",
+      "kind": "wiki"
+    },
+    {
+      "id": "zhwiktionary",
+      "name": "中文维基词典扩展",
+      "filename": "zhwiktionary-20260416.dict",
+      "bytes": 4637705,
+      "sha256": "787747697dc111c3ec3e5c5dc6935284f7e40712ada03ecb7a71dd3347bd6944",
+      "url": "https://github.com/felixonmars/fcitx5-pinyin-zhwiki/releases/download/0.3.0/zhwiktionary-20260416.dict",
+      "license": "CC-BY-SA-4.0",
+      "kind": "wiki"
     }
-  ]
+  ],
+  "excluded": "Core Chinese and user-owned files."
 }
