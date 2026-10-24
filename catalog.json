@@ -141,7 +141,7 @@
       "filename": "sogou-v2.zip",
       "bytes": 2983614,
       "sha256": "94b6db142b5f302a9026dd94cf0888c52a445b8070ff9cb695c56565b5ffe0e2",
-      "url": "https://github.com/lib123sis-lab/penguin-lexicon-resources/releases/download/lexicons-v1/sogou-v2.zip",
+      "url": "https://github.com/lib123sis-lab/penguin-lexicon-resources/releases/download/lexicons-v2/sogou-v2.zip",
       "license": "用户于2026-10-24确认已取得搜狗细胞词库分发许可；未附许可文件",
       "kind": "zip",
       "dictionaries": [

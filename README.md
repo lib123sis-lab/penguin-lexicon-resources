@@ -4,7 +4,7 @@
 
 ## 下载与导入
 
-[统一词库下载页](https://github.com/lib123sis-lab/penguin-lexicon-resources/releases/tag/lexicons-v1)每种词库只保留一个当前完整包，无需下载旧版。建议在合适、稳定的网络环境里下载。输入法设置→词库与语言资源→相应分类，下载后导入；当前版本首次安装启用，已有词库更新保留启停和个人编辑。
+[统一词库下载页](https://github.com/lib123sis-lab/penguin-lexicon-resources/releases/tag/lexicons-v2)每种词库只保留一个当前完整包，无需下载旧版。建议在合适、稳定的网络环境里下载。输入法设置→词库与语言资源→相应分类，下载后导入；当前版本首次安装启用，已有词库更新保留启停和个人编辑。
 
 |词库|当前完整下载|真实范围|
 |---|---|---|
@@ -15,7 +15,7 @@
 |音乐词库|[music-v1.zip](https://github.com/lib123sis-lab/penguin-lexicon-resources/releases/download/lexicons-v1/music-v1.zip)|5466个词语—拼音组合|
 |个人专业词库（公共主题词表）|[professional-v1.zip](https://github.com/lib123sis-lab/penguin-lexicon-resources/releases/download/lexicons-v1/professional-v1.zip)|公共主题词表1004条，不含个人学习数据|
 |热词|[hotwords-v2.zip](https://github.com/lib123sis-lab/penguin-lexicon-resources/releases/download/lexicons-v1/hotwords-v2.zip)|141条历史与现代精选；不是逐年完整百年全集|
-|搜狗精选词库（成语与地名扩展）|[sogou-v2.zip](https://github.com/lib123sis-lab/penguin-lexicon-resources/releases/download/lexicons-v1/sogou-v2.zip)|节日44、财务418、成语俗语与地名49379，共49841词语—拼音组合；不是全站镜像|
+|搜狗精选词库（成语与地名扩展）|[sogou-v2.zip](https://github.com/lib123sis-lab/penguin-lexicon-resources/releases/download/lexicons-v2/sogou-v2.zip)|节日44、财务418、成语俗语与地名49379，共49841词语—拼音组合；不是全站镜像|
 
 ## 许可和验证边界
 
